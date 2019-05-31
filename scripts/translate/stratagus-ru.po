@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stratagus-ru\n"
+"POT-Creation-Date: 2013-10-06 16:23+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cybermind <iddqd_mail@mail.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: g:/Temp/newdw1/dwtest1/scripts\n"
+"X-Poedit-SearchPath-0: c:/Documents and Settings/Admin/Documents/Projects/"
+"stratag/trunk/src\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_build.cpp:204
+msgid "You cannot reach building place"
+msgstr "Невозможно достигнуть места строительства"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_build.cpp:229
+#, c-format
+msgid "Not enough resources to build %s"
+msgstr "Недостаточно ресурсов для постройки %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_build.cpp:236
+#, c-format
+msgid "Can't build more units %s"
+msgstr "Нельзя создать еще %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_build.cpp:320
+#, c-format
+msgid "Unable to create building %s"
+msgstr "Нельзя построить здание: %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_build.cpp:441
+#, c-format
+msgid "You cannot build %s here"
+msgstr "Невозможно построить здесь %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_built.cpp:188
+#, c-format
+msgid "New %s done"
+msgstr "Готова новая постройка: %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_repair.cpp:178
+#, c-format
+msgid "We need more %s for repair!"
+msgstr "Для ремонта нам нужно больше %s!"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_research.cpp:137
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_research.cpp:139
+#, c-format
+msgid "%s: research complete"
+msgstr "%s: исследование завершено"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_spellcast.cpp:312
+#, c-format
+msgid "%s: not enough mana for spell: %s"
+msgstr "%s: не хватает энергии для способности: %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_spellcast.cpp:316
+#, c-format
+msgid "%s: spell is not ready yet: %s"
+msgstr "%s: способность еще не готова: %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_spellcast.cpp:320
+#, c-format
+msgid "%s: not enough resources to cast spell: %s"
+msgstr "%s: недостаточно ресурсов для способности: %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_spellcast.cpp:324
+#, c-format
+msgid "%s: can't cast spell: %s"
+msgstr "%s: невозможно использовать способность : %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_train.cpp:207
+#, c-format
+msgid "Unable to train %s"
+msgstr "Невозможно тренировать юнит %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_train.cpp:230
+#, c-format
+msgid "New %s ready"
+msgstr "Готов новый юнит %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_upgradeto.cpp:277
+#, c-format
+msgid "Upgrade to %s canceled"
+msgstr "Вы отменили модернизацию до %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/action_upgradeto.cpp:281
+#, c-format
+msgid "Upgrade to %s complete"
+msgstr "Модернизация до %s завершена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/command.cpp:948
+#, c-format
+msgid "Player \"%s\" has left the game"
+msgstr "Игрок %s покинул игру"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/action/command.cpp:950
+#, c-format
+msgid "Player \"%s\" has been killed"
+msgstr "Игрок \"%s\" был побежден"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:334
+msgid "Unit deleted"
+msgstr "Юнит удален"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:929
+#, c-format
+msgid "Editor (%d %d)"
+msgstr "Редактор (%d %d)"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:975
+#, c-format
+msgid "#%d '%s' Player:#%d %s"
+msgstr "#%d '%s' Игрок:#%d %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:979
+#, c-format
+msgid " Amount %d"
+msgstr "Ресурсы %d"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1221
+msgid "Unit can't be placed here."
+msgstr "Вы не можете создать здесь этот юнит"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1290
+msgid "Mirror editing enabled: 2-side"
+msgstr "Включен 2-стороний режим зеркального редактирования"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1293
+msgid "Mirror editing enabled: 4-side"
+msgstr "Включен 4-стороний режим зеркального редактирования"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1296
+msgid "Mirror editing disabled"
+msgstr "Режим зеркального редактирования выключен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1344
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1353
+msgid "Unit owner modified"
+msgstr "Изменена сторона юнита"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1438
+#, c-format
+msgid "Select player #%d"
+msgstr "Выбор игрока #%d"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1657
+msgid "Select mode"
+msgstr "Режим выбора"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1667
+msgid "Unit mode"
+msgstr "Режим юнитов"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1678
+msgid "Tile mode"
+msgstr "Режим ландшафта"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1694
+msgid "Set start location mode"
+msgstr "Режим стартовых позиций"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/editor/editloop.cpp:1764
+#, c-format
+msgid "Script %s"
+msgstr "Скрипт %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/game.cpp:153
+msgid "Do it! Do it now!"
+msgstr "Приветствуем в Аду!"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/replay.cpp:789
+msgid "No sync info for this replay !"
+msgstr "Отсутствуют данные синхронизации!"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/replay.cpp:791
+#, c-format
+msgid "Replay got out of sync (%lu) !"
+msgstr "Нарушена синхронизация переигровки (%lu)!"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/replay.cpp:800
+msgid "Replay got out of sync !"
+msgstr "Нарушена синхронизация переигровки!"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/replay.cpp:915
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/game/replay.cpp:929
+msgid "End of replay"
+msgstr "Конец переигровки"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/map/script_map.cpp:436
+#, c-format
+msgid "Tileset `%s'"
+msgstr "Тайлсет `%s'"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/missile/missileconfig.cpp:54
+#, c-format
+msgid "Missile %s"
+msgstr "Снаряд %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/missile/missileconfig.cpp:58
+#, c-format
+msgid "Can't find missile %s\n"
+msgstr "Снаряд не найден: %s\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/network/network.cpp:806
+#, c-format
+msgid "%s sent bad command"
+msgstr "%s отослал команду с ошибкой"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/network/network.cpp:895
+msgid "Network out of sync"
+msgstr "Нарушена синхронизация сети"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/network/network.cpp:1087
+#, c-format
+msgid "Waiting for player \"%s\": %d:%02d"
+msgstr "Ожидание игрока \"%s\": %d:%02d"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/network/network.cpp:1100
+msgid "Timed out"
+msgstr "Время вышло"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/construct.cpp:98
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/construct.cpp:107
+#, c-format
+msgid "Construction %s"
+msgstr "Конструкция %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:961
+msgid "Building Limit Reached"
+msgstr "Достигнут лимит построке"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:965
+msgid "Unit Limit Reached"
+msgstr "Достигнут лимит юнитов"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:969
+msgid "Insufficient Supply, increase Supply."
+msgstr "Требуется больше снабжения для юнитов"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:973
+msgid "Total Unit Limit Reached"
+msgstr "Достигнут общий лимит юнитов"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:977
+#, c-format
+msgid "Limit of %d reached for this unit type"
+msgstr "Достигнут предел в %d единиц для данного юнита"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/player.cpp:1003
+#, c-format
+msgid "Not enough %s...%s more %s."
+msgstr "%s в недостатке, %s больше ресурс %s."
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/script.cpp:2311
+#, c-format
+msgid "Script %s\n"
+msgstr "Скрипт %s\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/stratagus/stratagus.cpp:413
+msgid "Thanks for playing Stratagus.\n"
+msgstr "Спасибо за то, что сыграли в Doom Wars : UAC vs. Hell.\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/botpanel.cpp:1120
+msgid "Select Target"
+msgstr "Выберите цель"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/botpanel.cpp:1278
+msgid "Select Location"
+msgstr "Выберите позицию"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/botpanel.cpp:1296
+msgid "Unit training queue is full"
+msgstr "Очередь строительства заполнена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/icons.cpp:203
+#, c-format
+msgid "Icon %s"
+msgstr "Иконка %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/icons.cpp:206
+#, c-format
+msgid "Can't find icon %s\n"
+msgstr "Иконка не найдена: %s\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/icons.cpp:219
+#, c-format
+msgid "Icons %s"
+msgstr "Иконка %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:102
+#, c-format
+msgid "MESSAGE:%s~!_"
+msgstr "СООБЩЕНИЕ:%s~!_"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:261
+msgid "Sound is on."
+msgstr "Звук включен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:263
+msgid "Sound is off."
+msgstr "Звук выключен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:278
+msgid "Music is off."
+msgstr "Музыка включена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:281
+msgid "Music is on."
+msgstr "Музыка выключена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:294
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mouse.cpp:1875
+msgid "Game Paused"
+msgstr "Игра приостановлена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:296
+msgid "Game Resumed"
+msgstr "Игра возобновлена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:327
+msgid "Big map enabled"
+msgstr "Включена большая карта"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:336
+msgid "Returning to old map"
+msgstr "Большая карта выключена"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:350
+msgid "Faster"
+msgstr "Быстрее"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:369
+msgid "Slower"
+msgstr "Медленнее"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:382
+msgid "Set default game speed"
+msgstr "Установлена стандартная скорость игры"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:432
+msgid "Terrain displayed."
+msgstr "Показ ландшафта включен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:434
+msgid "Terrain hidden."
+msgstr "Показ ландшафта выключен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:476
+msgid "Grab mouse toggled."
+msgstr "Захват мыши переключен"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/interface.cpp:1005
+msgid "Screenshot made."
+msgstr "Получен снимок экрана"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mainscr.cpp:827
+#, c-format
+msgid "Last message repeated ~<%d~> times"
+msgstr "Вы получили последнее сообщение ~<%d~> раз"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mainscr.cpp:962
+#, c-format
+msgid "~<Event: %s~>"
+msgstr "~<Событие: %s~>"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mainscr.cpp:1144
+msgid "Cycle:"
+msgstr "Цикл:"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mouse.cpp:2045
+#, c-format
+msgid "You have ~<%d~> %ss"
+msgstr "У вас есть ~<%d~> %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/ui/mouse.cpp:2049
+#, c-format
+msgid "You have ~<%d~> %s(s)"
+msgstr "У вас есть ~<%d~> %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/depend.cpp:255
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/depend.cpp:314
+msgid "Requirements:\n"
+msgstr "Необходимо:\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/unit.cpp:2428
+#, c-format
+msgid "%s attacked"
+msgstr "%s под огнем"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/unittype.cpp:1032
+#, c-format
+msgid "unit-type '%s' without animations, ignored.\n"
+msgstr "юнит '%s' не имеет анимаций, пропускается.\n"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/unittype.cpp:1146
+#, c-format
+msgid "Unit \"%s\""
+msgstr "Юнит \"%s\""
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/unit/unit_draw.cpp:346
+#, c-format
+msgid "Decorations `%s'"
+msgstr "Декорация `%s'"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/video/cursor.cpp:104
+#, c-format
+msgid "Cursor %s"
+msgstr "Курсор %s"
+
+#: e:\iddqd\newsh\newdw\stratag\stratagus\src/video/sdl.cpp:361
+msgid "esc"
+msgstr "esc"
+
+#~ msgid "No Resources to Return."
+#~ msgstr "Нету возвращаемых ресурсов."
+
+#~ msgid "~!OK"
+#~ msgstr "ОК"
+
+#~ msgid "~!Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid "Artificial Intelligence"
+#~ msgstr "Искусственный интеллект"
+
+#~ msgid "Cannot create more units."
+#~ msgstr "Невозможно создать больше юнитов."

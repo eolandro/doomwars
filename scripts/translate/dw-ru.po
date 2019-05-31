@@ -1,0 +1,4730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stratagus-ru\n"
+"POT-Creation-Date: 2014-03-13 16:19+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cybermind <iddqd_mail@mail.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: g:/Temp/newdw1/dwtest1/scripts\n"
+"X-Poedit-SearchPath-0: g:/Temp/newdw1/dwtest1/scripts\n"
+"X-Poedit-SearchPath-1: g:/Temp/newdw1/dwtest1/scripts/hell/units\n"
+
+# buttons.lua
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:6
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:237
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:286
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:315
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:339
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:560
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:565
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:237
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:282
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:312
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:351
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:380
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:404
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:462
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:614
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:619
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:624
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:793
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:798
+msgid "~<ESC~> Cancel"
+msgstr "~<ESC~> Отмена"
+
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:10
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:15
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:20
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:25
+msgid "Aborts current upgrade and gives it's cost back to the player."
+msgstr "Отменяет модернизацию и возвращает ее стоимость обратно игроку."
+
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:11
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:16
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:21
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:26
+msgid "~<ESC~> Cancel upgrade"
+msgstr "~<ESC~> Отменить модернизацию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:30
+msgid "Aborts current unit training and gives it's cost back to the player."
+msgstr "Отменяет создание юнита и возвращает его стоимость обратно игроку."
+
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:31
+msgid "~<ESC~> Cancel unit training"
+msgstr "~<ESC~> Отменить создание юнита"
+
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:35
+msgid ""
+"Aborts current building construction and gives it's 75 percents cost back to "
+"the player."
+msgstr ""
+"Отменяет постройку здания и возвращает 75 процентов его стоимости обратно "
+"игроку."
+
+# buttons.lua
+#: g:/Temp/newdw1/dwtest1/scripts/buttons.lua:36
+msgid "~<ESC~> Cancel construction"
+msgstr "~<ESC~> Отмена строительства"
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:16
+msgid "Very Happy RESOURCES Added"
+msgstr "Халявные РЕСУРСЫ были розданы! "
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:24
+msgid "Very Happy RESOURCES Added NOT ONLY for you!"
+msgstr "Халявные РЕСУРСЫ были розданы всем! "
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:49
+msgid "Berserk disabled!"
+msgstr "Режим берсерка выключен!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:62
+msgid "Berserk enabled!"
+msgstr "Режим берсерка включен!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:75
+msgid "Degreelessness Mode OFF"
+msgstr "Режим бессмертия выключен"
+
+#: g:/Temp/newdw1/dwtest1/scripts/cheats.lua:79
+msgid "Degreelessness Mode ON"
+msgstr "Режим бессмертия включен"
+
+# cheats.lua
+# fixme
+# guichan.lua
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:406
+msgid "-Destroy the enemy"
+msgstr "-Уничтожьте противника"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:493
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:691
+msgid "~<Select scenario~>"
+msgstr "~<Выберите карту~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:515
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:729
+msgid "Filename: "
+msgstr "Файл: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:517
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:722
+msgid "Players: "
+msgstr "Игроков: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:519
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:319
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:362
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:731
+msgid "Description: "
+msgstr "Описание: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:521
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:733
+msgid "Size: "
+msgstr "Размер: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:554
+#: g:/Temp/newdw1/dwtest1/scripts/menus/diplomacy.lua:107
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:59
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:103
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:148
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:170
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:257
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:349
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:393
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:474
+#: g:/Temp/newdw1/dwtest1/scripts/menus/load.lua:38
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:347
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:376
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:426
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:774
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:432
+#: g:/Temp/newdw1/dwtest1/scripts/menus/replay.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:83
+msgid "~!Cancel"
+msgstr "Отмена"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "1:Red"
+msgstr "1:Красный"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "2:Blue"
+msgstr "2:Синий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "3:Green"
+msgstr "3:Зеленый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "4:Violet"
+msgstr "4:Фиолетовый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "5:Orange"
+msgstr "5:Оранжевый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "6:Black"
+msgstr "6:Черный"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "7:White"
+msgstr "7:Белый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:66
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:463
+msgid "8:Yellow"
+msgstr "8:Желтый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:571
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:110
+msgid "Random"
+msgstr "Произв."
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:571
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:67
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:464
+msgid "Hell"
+msgstr "Ад"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:573
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:68
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:465
+msgid "Player"
+msgstr "Игрок"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:573
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:68
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:465
+msgid "Computer"
+msgstr "Компьютер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:573
+msgid "None"
+msgstr "Нет"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:574
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:54
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:466
+msgid "Default"
+msgstr "По умолчанию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:574
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:54
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:466
+msgid "Explored"
+msgstr "Разведан"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:574
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:54
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:466
+msgid "Revealed"
+msgstr "Открыт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:591
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:23
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:689
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:71
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:478
+msgid "~!Map info"
+msgstr "~!Информация о карте"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:690
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:72
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:479
+msgid "Scenario:"
+msgstr "Карта:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:691
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:925
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:73
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:480
+msgid "File:  "
+msgstr "Файл:  "
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:694
+msgid "~<Skirmish Setup~>"
+msgstr "~<Настройка схватки~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:695
+msgid "S~!elect Scenario"
+msgstr "Выбрать карту"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:704
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:654
+msgid "~!Start Game"
+msgstr "Начать игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:765
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:79
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:487
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:825
+msgid "~!Main Menu"
+msgstr "Назад"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:790
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:145
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:585
+msgid "~<Type:~>"
+msgstr "~<Тип:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:806
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:146
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:586
+msgid "~<Side:~>"
+msgstr "~<Сторона:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:822
+msgid "~<Teams:~>"
+msgstr "~<Команда:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:856
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:82
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:490
+msgid "seconds"
+msgstr "секунд"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:875
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:102
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:509
+msgid "~<Reveal Map:~>"
+msgstr "~<Туман войны:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:887
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:111
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:523
+msgid "~<Game Type:~>"
+msgstr "~<Режим игры:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:888
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:112
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:524
+msgid "Team Battle"
+msgstr "Командная игра"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:888
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:112
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:524
+msgid "Free for all"
+msgstr "Каждый сам за себя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:888
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:112
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:524
+msgid "UAC vs. Hell"
+msgstr "UAC против Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:888
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:112
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:524
+msgid "Time Attack"
+msgstr "Битва на время"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:888
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:112
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:524
+msgid "Use map settings"
+msgstr "Настройки из карты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:899
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:117
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:536
+msgid "~<Resources:~>"
+msgstr "~<Ресурсы:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:900
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:118
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:537
+msgid "High"
+msgstr "Много"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:900
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:118
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:537
+msgid "Medium"
+msgstr "Средне"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:900
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:118
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:537
+msgid "Low"
+msgstr "Мало"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:900
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:118
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:537
+msgid "Quick Start"
+msgstr "Быстрый старт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:911
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:123
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:545
+msgid "~<AI Difficulty:~>"
+msgstr "~<Сложность ИИ:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:912
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:150
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:124
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:546
+msgid "I'm too young to die"
+msgstr "Я слишком молод умирать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:912
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:150
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:124
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:546
+msgid "Hey, not too rough"
+msgstr "Эй, полегче"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:912
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:150
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:124
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:546
+msgid "Hurt me plenty"
+msgstr "Побольше боли"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:912
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:150
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:124
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:546
+msgid "Ultra-Violence"
+msgstr "Ультра-Насилие"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:912
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:150
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:124
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:546
+msgid "Nightmare!"
+msgstr "Кошмар!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:947
+msgid "~!Skirmish"
+msgstr "Схватка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:949
+msgid "~!Multiplayer"
+msgstr "Мультиплеер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:951
+msgid "~!Campaign"
+msgstr "Кампания"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:953
+msgid "~!Editor"
+msgstr "Редактор"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:956
+msgid "~!Load Game"
+msgstr "Загрузить игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:958
+msgid "~!Replay Game"
+msgstr "Переиграть игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:960
+msgid "~!Options"
+msgstr "Настройки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:962
+msgid "Cre~!dits"
+msgstr "Авторы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:964
+msgid "E~!xit"
+msgstr "Выход"
+
+#: g:/Temp/newdw1/dwtest1/scripts/guichan.lua:968
+msgid "Powered by Stratagus Engine V"
+msgstr "Основано на Stratagus, версия "
+
+# uac/buttons.lua
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:7
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:7
+msgid "~!Move"
+msgstr "Двигаться"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:7
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:7
+msgid "Order unit to move to specified location."
+msgstr "Приказывает юниту идти в определенном направлении."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:16
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:17
+msgid "~!Stop"
+msgstr "Остановиться"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:16
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:17
+msgid "Order unit to stop current action."
+msgstr "Приказывает юниту остановиться."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:25
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:27
+msgid "~!Attack"
+msgstr "Атаковать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:25
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:27
+msgid ""
+"Order unit to attack other units or to move and kill any enemy on the way."
+msgstr ""
+"Приказывает юниту атаковать либо выдвигаться на позицию и уничтожать всех "
+"врагов на своем пути."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:34
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:36
+msgid "~!Patrol"
+msgstr "Патрулировать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:34
+msgid "Order unit to defend the territory between 2 points."
+msgstr "Приказывает юниту защищать территорию между 2 пунктами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:42
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:45
+msgid "S~!tand ground"
+msgstr "Защищать местность"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:42
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:45
+msgid "Order unit not to move and attack enemies in attack range."
+msgstr ""
+"Приказывает юниту не двигаться и поражать противников в зоне действия оружия."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:51
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:54
+msgid "Attack ~!ground"
+msgstr "Атаковать позицию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:51
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:54
+msgid "Order unit to attack specified location."
+msgstr "Приказывает юниту непрерывно обстреливать выбранную локацию."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:56
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:64
+msgid "~!Unload"
+msgstr "Высадить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:56
+msgid "Order Pain Elemental to unload it's souls on specified location."
+msgstr "Приказывает Элементалю Боли высадить все потерянные души и фантомов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:65
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:78
+msgid "~!Repair"
+msgstr "Ремонтировать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:65
+msgid ""
+"Order lost soul to repair damaged structures. The repair cost is 2 minerals "
+"and 1 energy per 2 hit points."
+msgstr ""
+"Приказывает душе ремонтировать поврежденные здания. Ремонт требует 2 ед. "
+"минералов и 1 ед. энергии за 2 ОЖ здания."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:69
+msgid "Order lost soul to collect minerals from specified mineral patch."
+msgstr ""
+"Приказывает душе собирать минералы с определенного месторождения минералов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:70
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:83
+msgid "~!Collect minerals"
+msgstr "Собирать минералы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:74
+msgid "Order lost soul to return his gained energy into nearest depot."
+msgstr ""
+"Приказывает душе вернуть свой всю собранную энергию в ближайший склад "
+"ресурсов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:75
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:88
+msgid "Return with ~!goods"
+msgstr "Вернуться с грузом."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:80
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:93
+msgid "~!Build basic structure"
+msgstr "Построить базовую структуру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:80
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:93
+msgid "The list of available main buildings."
+msgstr "Список основных сооружений, доступных для строительства."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:84
+msgid "The list of available hellspawn buildings."
+msgstr "Список основных демонических сооружений, доступных для строительства."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:85
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:98
+msgid "Build ~!war structure"
+msgstr "Построить военную структуру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:89
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:103
+msgid "The list of available base defence buildings."
+msgstr "Список оборонных сооружений, доступных для строительства."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:90
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:103
+msgid "Build ~!defence structure"
+msgstr "Построить оборонную структуру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:98
+msgid ""
+"Resurrect the dead demons back to life. The spell uses 20 mana per cast."
+msgstr ""
+"Воскресить мертвых демонов обратно к жизни. Заклинание использует 20 маны за "
+"попытку."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:99
+msgid "~!Resurrect"
+msgstr "Воскресить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:104
+msgid ""
+"Curse the target's armor and destroys all infantry armor within 3x3 area. "
+"The cursed unit will take 2x damage."
+msgstr ""
+"Проклинает броню цели и уничтожает всю броню у вражеской пехоты на участке "
+"3x3. Проклятый юнит будет получать вдвое больше урона."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:106
+msgid "~!Curse armor"
+msgstr "Проклясть броню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:110
+msgid "Make target to be invulnerable to damage for 15 seconds."
+msgstr "Делает цель неуязвимой к урону на 15 секунд."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:112
+msgid "~!Invulnerability"
+msgstr "Неуязвимость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:118
+msgid "In~!ferno"
+msgstr "Инферно"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:118
+msgid "Burn the selected area. Very effectively against buildings."
+msgstr "Поджигает указанную область. Очень эффективно против зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:128
+msgid "Raise zombie from dead marine."
+msgstr "Воскрешает зомби из павшего пехотинца."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:130
+msgid "~!Raise zombie"
+msgstr "Поднять зомби"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:136
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:142
+msgid "~!Activate pentagram"
+msgstr "Активировать пентаграмму"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:136
+msgid ""
+"Use Pentagram' of Death energy to summon Spider Mastermind for some time on "
+"random map spot."
+msgstr ""
+"Использовать накопленную энергию Пентаграммы для вызова Паука-Предводителя "
+"на некоторое время в любую точку карты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:142
+msgid ""
+"Use Pentagram' of Death energy to summon Cyberdemon for some time on random "
+"map spot."
+msgstr ""
+"Использовать накопленную энергию Пентаграммы для вызова Кибердемона на "
+"некоторое время в любую точку карты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:146
+msgid ""
+"Let Pentagram of Death to summon Cyberdemon. Cyberdemon is an ultimate demon "
+"lord, which power is enough to crush an entire army."
+msgstr ""
+"Позволяет Пентаграмме Смерти вызвать Кибердемона. Кибердемон - великий лорд "
+"демонов и обладает силой, достаточной, чтобы уничтожить целую армию."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:148
+msgid "Select ~!Cyberdemon"
+msgstr "Выбрать Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:152
+msgid ""
+"Let Pentagram of Death to summon Spider Mastermind. Spider Mastermind is a "
+"lord of hellspawn, and every demon near to it will start to move and attack "
+"faster."
+msgstr ""
+"Позволяет Пентаграмме Смерти вызвать Паука Предводителя. Паук Предводитель - "
+"лорд адского нашествия, и каждый демон, находясь рядом с ним, увеличивает "
+"свою скорость атаки и передвижения."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:154
+msgid "Select ~!Spider Mastermind"
+msgstr "Выбрать Паука Предводителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:159
+msgid "Summon ~!Cyberdemon"
+msgstr "Выбрать Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:164
+msgid "~!Zombifie"
+msgstr "Зомбировать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:164
+msgid "Dwell into UAC marine's corpse to control him."
+msgstr "Вселиться в труп пехотинца для полного контроля над ним."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:169
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:175
+msgid "Summon P~!hantom"
+msgstr "Вызвать Фантом"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:169
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:175
+msgid "Summons a Phantom for 1 minute on map."
+msgstr "Вызывает Фантом на поле боя на 1 минуту."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:180
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:191
+msgid "M~!elee attack"
+msgstr "Ближний бой"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:180
+msgid ""
+"Move closer to enemy and attack it with claws. Useless against mechs and "
+"buildings."
+msgstr ""
+"Приблизиться к врагу и атаковать его когтями. Бесполезно против механизмов и "
+"зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:184
+msgid "Throw fireball on specified spot and burn it."
+msgstr "Бросить огненный шар в заданную местность и поджечь ее."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:186
+msgid "~!Burn"
+msgstr "Поджечь"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:191
+msgid "Move closer to enemy and punch it. Useless against mechs and buildings."
+msgstr ""
+"Приблизиться к врагу и бить его. Бесполезно против механизмов и зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:196
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:116
+msgid "~!Heal"
+msgstr "Лечить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:196
+msgid "Heal monster. It uses 5 well energy for 4 hit points."
+msgstr ""
+"Лечит монстра. Способность использует 5 единиц энергии для восстановления 4 "
+"очков жизни."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:201
+msgid "~!Charge"
+msgstr "Восполнить ману"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:201
+msgid "Charge up monster's energy. It uses 5 well energy for 3 energy points."
+msgstr ""
+"Восполняет ману монстра. Способность использует 5 единиц энергии для "
+"восстановления 3 очков маны."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:206
+msgid "~!Vampirism"
+msgstr "Вампиризм"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:206
+msgid ""
+"Attack enemy with claws. The attack will give Belial 10 HP and 3 mana points "
+"plus an extra 3 HP and 1 mana point with each veterancy level."
+msgstr ""
+"Атаковать противника когтями. Успешный удар дает Белиалу 10 очков жизни и 3 "
+"очка маны и дополнительно 3 очка жизни и 1 очко маны за каждый уровень."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:210
+msgid "The list of Belial spells and abilities."
+msgstr "Список способностей и заклинаний Белиала"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:211
+msgid "~!Belial abilities"
+msgstr "Способности Белиала"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:216
+msgid "~!Rage"
+msgstr "Ярость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:216
+msgid "Speed-ups the target for 20 seconds."
+msgstr "Ускоряет цель на 20 секунд."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:221
+msgid "C~!orrupt"
+msgstr "Разложить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:221
+msgid "Turns marine into zombie."
+msgstr "Превращает пехотинца в зомби."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:227
+msgid "T~!eleport"
+msgstr "Телепортация"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:227
+msgid "Teleport Belial to random spot on the map."
+msgstr "Телепортирует Белиала в любую точку карты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:232
+msgid "Launch Aci~!d Storm"
+msgstr "Запустить кислотный шторм"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:232
+msgid "Creates an evil stone which starts to burst with acid fireballs."
+msgstr "Создает адский камень, который начинает швыряться кислотными шарами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:237
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:286
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:314
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:339
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:560
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:565
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:69
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:237
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:282
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:312
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:351
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:379
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:403
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:462
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:614
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:619
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:624
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:793
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:798
+msgid "Back to previous menu."
+msgstr "Назад в предыдущее меню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:243
+msgid "~!Eat corpse"
+msgstr "Съесть труп"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:243
+msgid "Demon eats the nearby corpse and fully restores its hit points."
+msgstr "Демон съедает труп и восстанавливает все здоровье."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:250
+msgid "~!Blink"
+msgstr "Вспышка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:250
+msgid "Teleport blood demon to another position."
+msgstr "Телепортирует кровавого демона в другое место"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:257
+msgid "Create portal ~!link"
+msgstr "Создать связь"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:257
+msgid ""
+"Creates a portal to random map location, so you will be able to transport "
+"units through Hell Gate to that location."
+msgstr ""
+"Создает портал в любую точку карты, что позволит вам перенести ваши юниты "
+"через Адские Врата в этот портал."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:265
+msgid ""
+"Hell's main building. It can summon lost souls and Belial, also it serves as "
+"a resource depot."
+msgstr ""
+"Главное сооружение Ада. Оно может призывать души и Белиала, также оно служит "
+"как хранилище ресурсов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:266
+msgid "Build Hell ~!keep"
+msgstr "Построить Адскую Крепость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:271
+msgid "Build ~!generator of Hell Power"
+msgstr "Построить генератор Адской Энергии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:271
+msgid ""
+"Produces energy and unit supply. The more generators you build, the quicker "
+"energy will be produced."
+msgstr ""
+"Производит энергию. Чем больше электростанций вы построите, тем больше "
+"энергии будет произведено."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:275
+msgid "The well can heal wounded monsters and charge up their energy."
+msgstr "Колодец может лечить раненых монстров и восполнять их ману."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:276
+msgid "Build ~!well of souls"
+msgstr "Построить колодец душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:280
+msgid "Provides access for even more deadly weapons of Hell's invasion."
+msgstr "Дает доступ к еще более смертоносным орудиям Адского нашествия."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:281
+msgid "Build ~!Temple of fire"
+msgstr "Построить Храм огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:294
+msgid "You can summon the small monsters of Hell there."
+msgstr "Здесь можно призвать младших монстров Ада."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:295
+msgid "Build monster ~!spawner"
+msgstr "Построить призыватель монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:300
+msgid "Build blood ~!pool"
+msgstr "Построить кровавый бассейн"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:300
+msgid "Allows you to upgrade abilities of your units."
+msgstr "Позволяет вам улучать характеристики ваших юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:304
+msgid ""
+"The big demons are moving to battlefield through this Gates. You could "
+"upgrade Hell Gate to create teleportation portals."
+msgstr ""
+"Старшие демоны продвигаются на поле боя через эти Врата. Вы можете улучшить "
+"Адские Врата, чтобы создавать порталы."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:305
+msgid "Build Hell ~!gate"
+msgstr "Построить Адские врата"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:309
+msgid "The place there the superior demons of hell could be spawned."
+msgstr "Место, где могут быть призваны "
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:310
+msgid "Build ~!pentagram of death"
+msgstr "Построить пентаграмму смерти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:323
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:388
+msgid ""
+"Passive defence, this can stop the enemy invasion to your base. Walls have "
+"an ability to block the most of missiles passing over them."
+msgstr ""
+"Пассивная оборона, позволяющая вам задержать продвижение противника на вашу "
+"базу. Стены обладают способностью блокировать большинство снарядов, "
+"пролетающих мимо них."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:324
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:389
+msgid "Build ~!wall"
+msgstr "Построить стену"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:328
+msgid ""
+"This tower can fire fireballs to enemies. Good against enemy's infantry."
+msgstr ""
+"Эта башня может бить огненными шарами по противнику. Хорошее решение против "
+"пехоты противника."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:329
+msgid "Build ~!fire tower"
+msgstr "Построить башню огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:333
+msgid ""
+"The most powerful defence tower of Hell, fires an explosive fireballs which "
+"could seek towards the enemy. Could be upgraded to raise zombies from dead "
+"marines."
+msgstr ""
+"Самая мощная башня Ада, которая может стрелять взрывающимися шарами, "
+"наводящимися на противника. Может быть улучшена, чтобы поднимать зомби из "
+"мертвых пехотинцев."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:334
+msgid "Build tower of ~!horror"
+msgstr "Построить башню ужаса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:349
+msgid "Summon ~!Lost Soul"
+msgstr "Вызвать потерянную душу"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:349
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:355
+msgid ""
+"Hell's main worker. Can build buildings, repair damaged ones and collect "
+"minerals."
+msgstr ""
+"Основная рабочая сила Ада. Может строить здания, ремонтировать поврежденные, "
+"собирать минералы."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:355
+msgid "Summon Superior ~!Lost Soul"
+msgstr "Вызвать Высшую потерянную душу"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:361
+msgid "Summon ~!Belial"
+msgstr "Вызвать Белиала"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:361
+msgid "Belial is the ultimate demon lord, right hand of Icon of Sin."
+msgstr "Белиал - высший лорд демонов, правая рука Иконы Греха."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:365
+msgid ""
+"Increases the hit points of buildings by 150, also increases the hit points "
+"of towers and walls by 45."
+msgstr ""
+"Увеличивает кол-во очков жизни у зданий на 150, а у оборонных сооружений на "
+"45."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:367
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:373
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:433
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:440
+msgid "Upgrade ~!building armor"
+msgstr "Улучшить броню зданий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:371
+msgid ""
+"Increases the hit points of buildings by 200, also increases the hit points "
+"of towers and walls by 55."
+msgstr ""
+"Увеличивает кол-во очков жизни у зданий на 200, а у оборонных сооружений на "
+"55"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:378
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:445
+msgid "~!Toggle ~!trading mode"
+msgstr "Переключить режим торговли."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:378
+msgid "Toggles trading mode for Hell Keep."
+msgstr "Переключить режим торговли для Крепости Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:384
+msgid "Set collect ~!minerals"
+msgstr "Установить точку сбора."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:384
+msgid ""
+"Sets the point where lost souls can collect minerals, so the new lost souls "
+"will automatically go there and collect minerals."
+msgstr ""
+"Установить точку, в которую создаваемые души будут автоматически "
+"направляться для сборки минералов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:393
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:472
+msgid "~!Previous player"
+msgstr "Предыдущий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:393
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:472
+msgid "Select previous player in list."
+msgstr "Выбрать предыдущего игрока в списке."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:399
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:478
+msgid "~!Next player"
+msgstr "Следующий игрок"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:399
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:478
+msgid "Select next player in list."
+msgstr "Выбрать следующего игрока в списке."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:405
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:484
+msgid "~!Decrease minerals"
+msgstr "Уменьшить количество минералов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:405
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:484
+msgid "Decrease minerals to transfer by 250."
+msgstr "Уменьшить количество минералов для передачи на 250."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:411
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:490
+msgid "~!Increase minerals"
+msgstr "Увеличить количество минералов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:411
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:490
+msgid "Increase minerals to transfer by 250."
+msgstr "Увеличить количество минералов для передачи на 250."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:417
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:496
+msgid "D~!ecrease energy"
+msgstr "Уменьшить количество энергии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:417
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:496
+msgid "Decrease energy to transfer by 250."
+msgstr "Уменьшить количество энергии для передачи на 250."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:423
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:502
+msgid "Inc~!rease energy"
+msgstr "Увеличить количество энергии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:423
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:502
+msgid "Increase energy to transfer by 250."
+msgstr "Увеличить количество энергии для передачи на 250."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:429
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:508
+msgid "~!Commit operation"
+msgstr "Подтвердить операцию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:429
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:508
+msgid "Transfer resources to another player."
+msgstr "Передать ресурсы другому игроку."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:438
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:444
+msgid "Summon ~!phantom"
+msgstr "Вызвать Фантом"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:438
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:444
+msgid ""
+"Floating monsters. Phantoms have an ability to make zombies from marine's "
+"corpses."
+msgstr ""
+"Летающий монстр. Фантомы обладают способностью создавать зомби из трупов "
+"пехотинцев."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:449
+msgid "Summon ~!imp"
+msgstr "Вызвать черта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:449
+msgid ""
+"The base units of Hell's invasion. They can throw fireballs and slash "
+"enemies with their claws. Could be upgraded to devil."
+msgstr ""
+"Основная единицы Адского нашествия. Они могут бросать огненные шары и рвать "
+"противников своими когтями. Могут быть улучшены до дьяволов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:459
+msgid "Summon ~!demon"
+msgstr "Вызвать демона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:459
+msgid ""
+"Strong monster which runs towards the enemy and bites their infantry. Could "
+"be upgraded to blood demon or spectre."
+msgstr ""
+"Сильный монстр, который бежит к противнику и кусает вражескую пехоту. Может "
+"быть улучшен до кровавого демона или спектра."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:474
+msgid "Summon ~!revenant"
+msgstr "Вызвать ревенанта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:474
+msgid ""
+"Quite fast monster armed with 2 missile launchers. Powerful against enemy's "
+"air units and buildings."
+msgstr ""
+"Достаточно быстрый монстр с 2 ракетными установками. Силен против воздушных "
+"сил и зданий противника."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:496
+msgid "Summon ~!Hell knight"
+msgstr "Вызвать рыцаря Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:496
+msgid ""
+"Very strong monster which shoots green fireballs and can slash enemies in "
+"close combat. Could be upgraded to Baron of Hell."
+msgstr ""
+"Очень сильный монстр, который кидается зелеными огненными шарами и крошит "
+"противников в ближнем бою. Может быть улучшен до Барона Ада."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:502
+msgid "Summon ~!cacodemon"
+msgstr "Вызвать какодемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:502
+msgid "Floating monster, good against enemy's air forces."
+msgstr "Летающий монстр, хорош против воздушных сил противника."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:508
+msgid "Summon ~!arachnotron"
+msgstr "Вызвать арахнотрона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:508
+msgid ""
+"This spider-like monster armed with plasma gun. Good against everything "
+"except for air units."
+msgstr ""
+"Этот паукообразный монстр вооружен плазменной пушкой. Хорош против всего, "
+"кроме воздушных юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:514
+msgid "Summon ~!pain elemenatal"
+msgstr "Вызвать элементаль боли"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:514
+msgid ""
+"Good solution against enemy's infantry. Their souls have an ability to "
+"decrease attacking damage of enemy's weapons. Pain Elementals can summon and "
+"transport Lost Souls and Phantoms."
+msgstr ""
+"Хорошее решение против пехоты противника. Их души могут ослаблять урон от "
+"орудий противника. Элементали боли могут призывать и переносить потерянных "
+"душ и Фантомов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:520
+msgid "Summon ~!mancubus"
+msgstr "Вызвать манкубуса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:520
+msgid ""
+"Heavy monster armed with 2 flamethrowers, deadly against infantry and "
+"buildings."
+msgstr "Тяжелый монстр с 2 огнеметами, смертоносен против пехоты и зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:526
+msgid "Summon arch-~!vile"
+msgstr "Вызвать архиподлеца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:526
+msgid "Fast monster which is able to cast spells and resurrect dead monsters."
+msgstr ""
+"Быстрый монстр, способный накладывать заклинания и воскрешать мертвых "
+"монстров."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:535
+msgid "~!Upgrade to advanced fire tower"
+msgstr "Модернизация до усовершенствованной башни огня."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:535
+msgid "Upgrade Fire Tower to make it shoot with homing missiles."
+msgstr "Улучшить Башню Огня, чтобы она стреляла самонаводящимися снарядами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:540
+msgid "~!Upgrade to adv.generator of Hell Power"
+msgstr "Модернизация до усовершенствованного генератора Адской энергии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:540
+msgid "Upgrade generator of Hell Power to produce more energy and unit supply."
+msgstr ""
+"Улучшить генератор Адской Энергии, чтобы производить больше энергии и "
+"снабжения для юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:545
+msgid "~!Non-fireball weapon upgrades"
+msgstr "Модернизация не огненного оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:545
+msgid ""
+"List of available weapon upgrades for monsters not armed with fireballs."
+msgstr ""
+"Список доступных улучшений оружия монстров, которые не вооружены огненными "
+"шарами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:550
+msgid "~!Fireball upgrades"
+msgstr "Модернизации огненных шаров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:550
+msgid "List of available weapon upgrades for fireball armed monsters."
+msgstr ""
+"Список доступных улучшений оружия у монстров, кидающиеся огненными шарами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:555
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:609
+msgid "~!Tech and defence upgrades"
+msgstr "Технические и оборонные модификации"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:555
+msgid "List of available upgrades for armor, sight etc."
+msgstr "Список доступных улучшений для брони, радиуса обзора и т. д."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:579
+msgid "Upgrade ~!demon teeth"
+msgstr "Модернизация зубов демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:579
+msgid ""
+"Increase the demon's damage by 20 percents and adds ability to restore "
+"health from corpses."
+msgstr ""
+"Увеличивает урон, наносимый демонами, на 20 процентов и добавляет "
+"способность восстанавливать здоровье, съедая трупы."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:585
+msgid "Upgrade ~!claws"
+msgstr "Улучшить когти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:585
+msgid "Increase the melee combat damage by 20 percents."
+msgstr "Увеличивает урон, наносимый ближним боем, на 20 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:591
+msgid "Research ~!souls power"
+msgstr "Исследовать энергию душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:591
+msgid ""
+"Increase the damage done by Phantoms and Pain Elementals by 20 percents and "
+"increase Pain Elemental's mana pool by 80."
+msgstr ""
+"Увеличивает урон, наносимый Фантомами и элементалями боли, на 20 процентов и "
+"увеличивает запас маны элементаля боли на 80 единиц."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:597
+msgid "Upgrade ~!arch-vile power"
+msgstr "Модернизация способностей архиподлеца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:597
+msgid ""
+"Increase the damage done by Archvile's fire by 20 percents, its attack range "
+"by 1 and Archvile's mana pool by 50."
+msgstr ""
+"Увеличивает урон, наносимый архиподлецами, на 20 процентов, радиус атаки на "
+"1 и увеличивает их запас маны на 50 единиц."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:606
+msgid "Upgrade  f~!ireballs"
+msgstr "Модернизация огненных шаров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:606
+msgid ""
+"Upgrade the fireballs used by Imps, Devils and Fire Towers, increasing their "
+"damage by 20 percents, attack range by 1 and allowing Imps to burn ground "
+"with their fireballs."
+msgstr ""
+"Улучшает огненные шары чертей, дьяволов и башен огня, увеличивая их урон на "
+"20 процентов, радиус атаки на 1 и добавляя возможность чертям поджигать "
+"землю своими огненными шарами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:612
+msgid "Upgrade ~!cacoballs"
+msgstr "Модернизация огненных шаров какодемонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:612
+msgid ""
+"Upgrade the fireballs used by Cacodemons and Cacoliches, increasing their "
+"damage by 20 percents and attack range by 1. Cacodemons can fire their "
+"fireballs more precisely."
+msgstr ""
+"Улучшает огненные шары какодемонов и каколичей, увеличивая их урон на 20 "
+"процентов, радиус атаки на 1 и улучшая точность попадания огненных шаров "
+"какодемона."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:618
+msgid "Research aci~!d fireballs"
+msgstr "Исследование кислотных огненных шаров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:618
+msgid ""
+"Upgrades green fireballs used by Hell Knights, Barons of Hell, Belial and "
+"Horror Towers, increasing their damage by 20 percents, attack range by 1 and "
+"enhancing them with acid damage."
+msgstr ""
+"Улучшает зеленые огненные шары рыцарей Ада, баронов Ада, Белиала и Башни "
+"ужаса, увеличивая их урон на 20 процентов, радиус атаки на 1 и добавляя "
+"возможность поражать цель кислотой."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:624
+msgid "Upgrade ~!arachnotron plasma"
+msgstr "Модернизация плазмы арахнотрона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:624
+msgid ""
+"Increase the Arachnotron's plasma damage by 20 percents and attack range by "
+"1."
+msgstr ""
+"Увеличивает урон, наносимый плазмой Арахнотрона, на 20 процентов, а радиус "
+"атаки на 1."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:630
+msgid "Upgrade ~!revenant missiles"
+msgstr "Модернизация снарядов ревенанта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:630
+msgid ""
+"Upgrade missiles used by Revenants and Upgraded Fire Tower, increasing their "
+"damage by 20 percents, attack range by 1 and enhancing them with homing "
+"ability."
+msgstr ""
+"Улучшает ракеты ревенантов и улучшенных башен огня, увеличивая их урон на 20 "
+"процентов, радиус атаки на 1 и добавляя возможность снарядам самонаводиться "
+"на цель."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:636
+msgid "Upgrade ~!mancubus fireballs"
+msgstr "Модернизация огненных шаров манкубуса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:636
+msgid ""
+"Increase the Mancubi's fireball damage by 20 percents and attack range by 1."
+msgstr ""
+"Увеличивает урон, наносимый снарядами Манкубусов, на 20 процентов, а радиус "
+"атаки на 1."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:645
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:651
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:657
+msgid "Upgrade light monsters f~!lesh"
+msgstr "Модернизация легкой плоти монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:645
+msgid "Increases the light armored monster's hit points by 15."
+msgstr "Увеличивает очки жизни у легко бронированных монстров на 15."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:651
+msgid "Increases the light armored monster's hit points by 20."
+msgstr "Увеличивает очки жизни у легко бронированных монстров на 20."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:657
+msgid "Increases the light armored monster's hit points by 25."
+msgstr "Увеличивает очки жизни у легко бронированных монстров на 25."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:663
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:669
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:675
+msgid "Upgrade ~!heavy monsters flesh"
+msgstr "Модернизация тяжелой плоти монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:663
+msgid "Increases the heavy armored and air monster's hit points by 25."
+msgstr ""
+"Увеличивает очки жизни у тяжело бронированных и воздушных монстров на 25."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:669
+msgid "Increases the heavy armored and air monster's hit points by 35."
+msgstr ""
+"Увеличивает очки жизни у тяжело бронированных и воздушных монстров на 35."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:675
+msgid "Increases the heavy armored and air monster's hit points by 45."
+msgstr ""
+"Увеличивает очки жизни у тяжело бронированных и воздушных монстров на 45."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:681
+msgid "Upgrade monsters ~!sight"
+msgstr "Модернизация радиуса обзора монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:681
+msgid "Increases units sight range by 2."
+msgstr "Увеличивает радиус обзора юнитов на 2."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:687
+msgid "S~!pectre research"
+msgstr "Изучение спектров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:687
+msgid "Allows to upgrade Demon to Spectre."
+msgstr "Позволяет улучшать демонов до спектров."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:693
+msgid "Bl~!ood demon research"
+msgstr "Изучение кровавых демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:693
+msgid "Allows to upgrade Demon to Blood Demon."
+msgstr "Позволяет улучшать демонов до кровавых демонов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:699
+msgid "Blink ~!teleporting ability"
+msgstr "Способность телепортационной вспышки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:699
+msgid "Allow Blood Demons to teleport instantly in short range."
+msgstr ""
+"Позволяет кровавым демонам мгновенно перемещаться на короткой дистанции."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:705
+msgid "Upgrade ~!cacodemon speed"
+msgstr "Модернизация скорости какодемонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:705
+msgid "Increase moving speed of Cacodemons and Cacoliches."
+msgstr "Увеличить скорость полета какодемонов и каколичей."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:711
+msgid "Research ~!zombification"
+msgstr "Исследование зомбирования"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:711
+msgid ""
+"Pain Elementals will get ability to zombifie marines with their attack. A "
+"zombified marine will have a chance to turn into zombie after death."
+msgstr ""
+"Элементали боли получают возможность заражать пехотинцев своей атакой. "
+"Зараженный пехотинец будет иметь шанс превратиться в зомби после смерти."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:716
+msgid ""
+"Upgrade Hell Knight to Baron of Hell. Barons of Hell are the strongest and "
+"toughest monsters in Hell."
+msgstr ""
+"Улучшить Рыцарей Ада до Баронов Ада. Бароны Ада - самые сильные и крепкие "
+"монстры Ада."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:717
+#, fuzzy
+msgid "~!Upgrade Hell Knight to Baron of Hell"
+msgstr "Улучшить Рыцаря Ада до Барона Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:722
+msgid ""
+"Upgrade Imp to Devil. Devils are great against enemy's air units and "
+"buildings."
+msgstr ""
+"Улучшить Черта до Дьявола. Дьяволы хороши против воздушных юнитов врага и "
+"зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:723
+msgid "~!Upgrade Imp to Devil"
+msgstr "Улучшить черта до дьявола"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:728
+msgid ""
+"Upgrade Demon to Blood Demon.  Blood demons are much tougher than Demons and "
+"they could beat enemy's mechs and buildings."
+msgstr ""
+"Улучшить Демона до Кровавого демона. Кровавые демоны значительно сильнее "
+"Демонов и они могут повреждать вражескую технику и здания."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:729
+msgid "Upgrade Demon to ~!Blood Demon"
+msgstr "Улучшить Демона до Кровавого Демона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:734
+msgid ""
+"Upgrade Demon to Spectre. Spectres are less tough and strong as Demons, but "
+"nobody could see them except for special detector units."
+msgstr ""
+"Улучшить Демона до Спектра. Спектры слабее Демонов, но это компенсируется "
+"тем, что никто не может их увидеть, кроме специальных юнитов-детекторов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:735
+msgid "Upgrade Demon to Spect~!re"
+msgstr "Улучшить Демона до Спектра"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:740
+msgid ""
+"Upgrade Cacodemon to Cacolich. Cacoliches are very effective against enemy's "
+"mechs and buildings."
+msgstr ""
+"Улучшить Какодемона до Каколича. Каколичи очень эффективны против механизмов "
+"врага и его зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:741
+msgid "Upgrade Cacodemon to ~!Cacolich"
+msgstr "Улучшить Какодемона до Каколича."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:748
+msgid "Allows monsters to regenerate their health."
+msgstr "Позволяет монстрам восстанавливать свои очки жизни."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:750
+msgid "Research monsters ~!regeneration"
+msgstr "Изучение регенерации монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:754
+msgid ""
+"Increases Lost Soul's hit points by 20, damage by 20 percents, minerals "
+"capacity to 120, also allows them to fly over other units and obstacles."
+msgstr ""
+"Увеличивает очки жизни душ на 20, наносимый вред на 20 процентов, запас "
+"минералов до 120 единиц, а также позволяет им летать над другими юнитами и "
+"препятствиями."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:756
+msgid "Upgrade ~!Lost Soul workers"
+msgstr "Модернизация потерянных душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:760
+msgid "Gives an ability to Horror Tower to raise dead marines as zombies."
+msgstr "Дает возможность Башне Ужаса поднимать зомби из мертвых пехотинцев."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:762
+msgid "~!Raise zombie research"
+msgstr "Изучение воскрешения зомби"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:766
+msgid ""
+"Allow Hell Gates to create portals, which are able to teleport units to "
+"random map spots."
+msgstr ""
+"Позволяет Адским Вратам создавать порталы, которые способны телепортировать "
+"юниты в любое место на карте."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:768
+msgid "~!Portals research"
+msgstr "Изучение порталов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:772
+msgid ""
+"Upgrade Temple of Fire, providing access to the most deadful and destructive "
+"weapons of Hell."
+msgstr ""
+"Улучшить Храм Огня, предоставляя доступ к самым смертоносным и "
+"разрушительным орудиям Ада."
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/buttons.lua:774
+msgid "Upgrade ~!Temple of Fire"
+msgstr "Модернизация Храма Огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:219
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:227
+msgid "Menu (~<F10~>)"
+msgstr "Меню (~<F10~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:232
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:294
+msgid "Menu"
+msgstr "Меню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:238
+#: g:/Temp/newdw1/dwtest1/scripts/menus/diplomacy.lua:5
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:300
+msgid "Diplomacy"
+msgstr "Дипломатия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:260
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:255
+msgid "Previous viewport mode"
+msgstr "Предыдущий вид"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:266
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:261
+msgid "Next viewport mode"
+msgstr "Следующий вид"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:274
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:269
+msgid "Game resumed"
+msgstr "Игра возобновлена"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/ui.lua:277
+#: g:/Temp/newdw1/dwtest1/scripts/uac/ui.lua:272
+msgid "Game paused"
+msgstr "Игра приостановлена"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:18
+msgid "Hell Keep"
+msgstr "Адская Крепость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:84
+msgid "Generator of Hell Power"
+msgstr "Генератор Адской Энергии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:138
+msgid "Adv.Generator of Hell Power"
+msgstr "Улучш. генератор"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:192
+msgid "Monster Spawner"
+msgstr "Призыватель монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:252
+msgid "Hell Gate"
+msgstr "Адские Врата"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:308
+msgid "Temple of Fire"
+msgstr "Храм Огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:384
+msgid "Pentagram of Death"
+msgstr "Пентаграмма смерти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:435
+msgid "Well of Souls"
+msgstr "Колодец душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:488
+msgid "Fire Tower"
+msgstr "Башня Огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:564
+msgid "Advanced Fire Tower"
+msgstr "Улучш. башня огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:639
+msgid "Tower of Horror"
+msgstr "Башня ужаса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:716
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units.lua:739
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:691
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:714
+msgid "Wall"
+msgstr "Стена"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-arachnotron.lua:97
+msgid "Arachnotron"
+msgstr "Арахнотрон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-arachnotron.lua:162
+msgid "Arachnotron Body"
+msgstr "Труп Арахнотрона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-arch-vile.lua:131
+msgid "Arch-Vile"
+msgstr "Архиподлец"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-arch-vile.lua:197
+msgid "Arch-Vile Body"
+msgstr "Труп Архиподлеца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-baron-of-hell.lua:152
+msgid "Baron of Hell"
+msgstr "Барон Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-baron-of-hell.lua:235
+msgid "Baron Body"
+msgstr "Труп Барона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-belial.lua:175
+msgid "Belial"
+msgstr "Белиал"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-belial.lua:264
+msgid "Belial Body"
+msgstr "Труп Белиала"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-bfg-zombie.lua:115
+msgid "Former Commando"
+msgstr "Бывший Коммандос"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-bfg-zombie.lua:183
+msgid "Former Commando Body"
+msgstr "Труп Бывшего Коммандоса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-blood-demon.lua:100
+msgid "Blood Demon"
+msgstr "Кровавый демон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-blood-demon.lua:164
+msgid "Blood Demon Body"
+msgstr "Труп кровавого Демона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-blood-pool.lua:19
+msgid "Blood Pool"
+msgstr "Кровавый бассейн"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cacodemon.lua:144
+msgid "Cacodemon"
+msgstr "Какодемон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cacodemon.lua:208
+msgid "Cacodemon Body"
+msgstr "Труп Какодемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cacolich.lua:170
+msgid "Cacolich"
+msgstr "Каколич"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cacolich.lua:252
+msgid "Cacolich Body"
+msgstr "Труп Каколича"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cyberdemon.lua:77
+msgid "Cyberdemon"
+msgstr "Кибердемон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-cyberdemon.lua:142
+msgid "Cyberdemon Body"
+msgstr "Труп Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-demon.lua:109
+msgid "Demon"
+msgstr "Демон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-demon.lua:175
+msgid "Demon Body"
+msgstr "Труп Демона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-devil.lua:142
+msgid "Devil"
+msgstr "Дьявол"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-devil.lua:225
+msgid "Devil Body"
+msgstr "Труп Дьявола"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-gate-exit.lua:68
+msgid "Hell Gate exit"
+msgstr "Выход портала"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-hell-knight.lua:148
+msgid "Hell Knight"
+msgstr "Рыцарь Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-hell-knight.lua:230
+msgid "Hell Knight Body"
+msgstr "Труп Рыцаря Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-imp.lua:152
+msgid "Imp"
+msgstr "Черт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-imp.lua:237
+msgid "Imp Body"
+msgstr "Труп Черта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-lostsoul.lua:62
+msgid "Lost Soul"
+msgstr "Потерянная душа"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-lostsoul.lua:138
+msgid "Superior Lost Soul"
+msgstr "Высшая потерянная душа"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-mancubus.lua:124
+msgid "Mancubus"
+msgstr "Манкубус"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-mancubus.lua:192
+msgid "Mancubus Body"
+msgstr "Труп Манкубуса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-pain-elemental.lua:78
+msgid "Pain Elemental"
+msgstr "Элементаль боли"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-phantom.lua:65
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-phantom.lua:135
+msgid "Phantom"
+msgstr "Фантом"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-plasma-zombie.lua:111
+msgid "Former Heavy Trooper"
+msgstr "Бывший тяж. пехотинец"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-plasma-zombie.lua:178
+msgid "Former Heavy Trooper body"
+msgstr "Труп бывш. тяж. пехотинца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-revenant.lua:145
+msgid "Revenant"
+msgstr "Ревенант"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-revenant.lua:229
+msgid "Revenant Body"
+msgstr "Труп Ревенанта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-saw-zombie.lua:99
+msgid "Former Berserker"
+msgstr "Бывший Берсеркер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-saw-zombie.lua:168
+msgid "Former Berserker Body"
+msgstr "Труп Бывшего Берсеркера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-spectre.lua:108
+msgid "Spectre"
+msgstr "Спектр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-spectre.lua:174
+msgid "Spectre Body"
+msgstr "Труп Спектра"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-spiderdemon.lua:81
+msgid "The Spider Mastermind"
+msgstr "Паук Предводитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-spiderdemon.lua:146
+msgid "The Spider Mastermind Body"
+msgstr "Труп Паука Предводителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-ssg-zombie.lua:122
+msgid "Former Super Shotgunner"
+msgstr "Супер Штурмовик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-ssg-zombie.lua:190
+msgid "Former Super Shotgunner Body"
+msgstr "Труп Бывшего Супер Штурмовика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/units/unit-technician-zombie.lua:66
+msgid "Former Technician"
+msgstr "Бывший техник"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:2
+msgid "Upgrade demon teeth"
+msgstr "Модернизация зубов демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:4
+msgid "Upgrade claws"
+msgstr "Улучшить когти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:6
+msgid "Research souls power"
+msgstr "Исследовать энергию душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:8
+msgid "Upgrade arch-vile power"
+msgstr "Модернизация способностей архиподлеца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:10
+msgid "Upgrade fireballs"
+msgstr "Модернизация огненных шаров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:12
+msgid "Upgrade cacoballs"
+msgstr "Модернизация огненных шаров какодемонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:14
+msgid "Research acidballs"
+msgstr "Исследование кислотных огненных шаров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:16
+msgid "Upgrade arachnotron plasma"
+msgstr "Модернизация плазмы арахнотрона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:18
+msgid "Upgrade mancubus fireballs"
+msgstr "Модернизация огненных шаров манкубуса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:20
+msgid "Upgrade revenant missiles"
+msgstr "Модернизация снарядов ревенанта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:22
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:24
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:26
+msgid "Upgrade light monsters flesh"
+msgstr "Модернизация легкой плоти монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:28
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:30
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:32
+msgid "Upgrade heavy monsters flesh"
+msgstr "Модернизация тяжелой плоти монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:34
+msgid "Upgrade monsters sight"
+msgstr "Модернизация радиуса обзора монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:36
+msgid "Spectre ability research"
+msgstr "Изучение спектров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:38
+msgid "Research zombification"
+msgstr "Исследование зомбирования"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:40
+msgid "Blood demon research"
+msgstr "Изучение кровавых демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:42
+msgid "Blink teleporting ability"
+msgstr "Способность телепортационной вспышки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:44
+msgid "Upgrade cacodemon speed"
+msgstr "Модернизация скорости какодемонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:46
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:48
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:50
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:52
+msgid "Upgrade building armor"
+msgstr "Модернизация брони зданий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:50
+msgid "Research monsters regeneration"
+msgstr "Изучение регенерации монстров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:52
+msgid "Upgrade Lost Soul workers"
+msgstr "Модернизация потерянных душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:54
+msgid "Upgrade Temple of Fire"
+msgstr "Модернизация Храма Огня"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:56
+msgid "Zombie raising research"
+msgstr "Изучение аномалий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/hell/upgrade.lua:58
+msgid "Portals research"
+msgstr "Изучение порталов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:100
+#: g:/Temp/newdw1/dwtest1/scripts/menus/credits.lua:94
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:289
+msgid "~!Continue"
+msgstr "Продолжить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:156
+msgid "~!Hell campaign"
+msgstr "Кампания Ада"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:159
+msgid "~!UAC campaign"
+msgstr "Кампания UAC"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:164
+msgid "~!Missions"
+msgstr "Миссии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:166
+msgid "~!Tutorial"
+msgstr "Обучение"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/campaign.lua:169
+msgid "Follow the lieutenant's orders."
+msgstr "Следуйте указаниям лейтенанта."
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/diplomacy.lua:7
+msgid "Allied"
+msgstr "Союзник"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/diplomacy.lua:8
+msgid "Enemy"
+msgstr "Враг"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/diplomacy.lua:9
+msgid "Shared Vision"
+msgstr "Общий обзор"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:10
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:7
+msgid "File exists, are you sure ?"
+msgstr "Файл существует, вы уверены?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:12
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:38
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:389
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:9
+msgid "~!Yes"
+msgstr "Да"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:16
+msgid "Saved map to: "
+msgstr "Карта сохранена в:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:21
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:50
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:396
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:17
+msgid "~!No"
+msgstr "Нет"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:36
+msgid "Do you want to save your map?"
+msgstr "Вы хотите сохранить свою карту?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:75
+msgid "Map description :"
+msgstr "Описание: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:77
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:375
+msgid "TileSet : "
+msgstr "Тайлсет:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:80
+msgid "Size :"
+msgstr "Размер: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:87
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:165
+msgid "~!New map"
+msgstr "Создать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:119
+msgid "File      : "
+msgstr "Файл :  "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:122
+msgid "Players  : "
+msgstr "Игроков : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:125
+msgid "Scenario : "
+msgstr "Карта :"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:128
+msgid "Size      : "
+msgstr "Размер : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:137
+msgid "~!Select map"
+msgstr "Выбрать карту"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:147
+msgid "~!Edit map"
+msgstr "Редактировать"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:163
+msgid "~<Map Editor~>"
+msgstr "~<Редактор~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:166
+msgid "~!Load map"
+msgstr "Загрузить карту"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:168
+msgid "~!Exit"
+msgstr "Выход"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:184
+msgid "Save Map"
+msgstr "Запись карты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:216
+#: g:/Temp/newdw1/dwtest1/scripts/menus/replay.lua:49
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:55
+msgid "~!Save"
+msgstr "Запись"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:272
+msgid "Players properties"
+msgstr "Свойства игроков"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:286
+msgid "Type"
+msgstr "Тип"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:287
+msgid "Race"
+msgstr "Раса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:288
+msgid "AI"
+msgstr "ИИ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:289
+msgid "Minerals"
+msgstr "Минералы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:290
+msgid "Energy"
+msgstr "Энергия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:366
+msgid "Map properties"
+msgstr "Свойства карты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:368
+msgid "Map description: "
+msgstr "Описание карты: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:370
+msgid "Map setup file: "
+msgstr "Файл установок карты: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:373
+msgid "Size    : "
+msgstr "Размер : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:410
+msgid "Editor Menu"
+msgstr "Меню редактора"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:412
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:36
+msgid "Save (~<F11~>)"
+msgstr "Запись(~<F11~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:413
+msgid "Map Properties (~<F5~>)"
+msgstr "Свойства карты (~<F5~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:414
+msgid "Player Properties (~<F6~>)"
+msgstr "Свойства игроков (~<F6~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:416
+msgid "E~!xit to Menu"
+msgstr "Вернуться в меню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:421
+msgid "Return to Editor (~<Esc~>)"
+msgstr "Вернуться (~<Esc~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:440
+msgid "Unit properties"
+msgstr "Свойства юнитов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:444
+msgid "Teleport properties"
+msgstr "Свойства телепорта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:445
+msgid "Dest. unit: "
+msgstr "Выход. юнит:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:458
+msgid "Artificial Intelligence"
+msgstr "Искусственный интеллект"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/editor.lua:468
+msgid "Amount of "
+msgstr "Количество"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:4
+msgid "End Scenario"
+msgstr "Завершить игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:5
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:34
+msgid "~!Restart Scenario"
+msgstr "Перезапустить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:10
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:54
+msgid "~!Surrender"
+msgstr "Сдаться"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:12
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:74
+msgid "~!Quit to Menu"
+msgstr "Выход в меню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:14
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:94
+msgid "E~!xit Doom Wars"
+msgstr "Выйти из Doom Wars"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:16
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:9
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:85
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:451
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:479
+msgid "Previous (~<Esc~>)"
+msgstr "Назад  (~<Esc~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:25
+msgid "Are you sure you want to restart the scenario?"
+msgstr "Вы действительно желаете перезапустить игру?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:36
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:56
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:96
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:304
+msgid "Cancel (~<Esc~>)"
+msgstr "Отмена(~<Esc~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:45
+msgid "Are you sure you want to surrender to your enemies?"
+msgstr "Вы действительно желаете сдаться своим противникам?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:65
+msgid "Are you sure you want to quit to the main menu?"
+msgstr "Вы действительно хотите выйти в главное меню?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/endscenario.lua:85
+msgid "Are you sure you want to exit Doom Wars?"
+msgstr "Вы действительно хотите покинуть Doom Wars?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:34
+msgid "Game Menu"
+msgstr "Игровое меню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:38
+msgid "Load (~<F12~>)"
+msgstr "Загрузка(~<F12~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:40
+msgid "Options (~<F5~>)"
+msgstr "Опции (~<F5~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:42
+msgid "Help (~<F1~>)"
+msgstr "Помощь (~<F1~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:44
+msgid "Scenario ~!Objectives"
+msgstr "Цели миссии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:46
+msgid "~!End Scenario"
+msgstr "Завершить игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/game.lua:48
+msgid "Return to Game (~<Esc~>)"
+msgstr "Вернуться в игру (~<Esc~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:4
+msgid "Help Menu"
+msgstr "Меню помощи"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:5
+msgid "Keystroke ~!Help"
+msgstr "Горячие клавиши"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:7
+msgid "~!Tips"
+msgstr "Советы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:84
+msgid "Keystroke Help Menu"
+msgstr "Горячие клавиши"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:163
+msgid "Show tips at startup"
+msgstr "Показывать при запуске"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:170
+msgid "~!Next Tip"
+msgstr "Далее"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/help.lua:172
+msgid "~!Close"
+msgstr "Закрыть"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/load.lua:21
+msgid "Load Game"
+msgstr "Загрузить игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/load.lua:25
+msgid "~!Load"
+msgstr "Загрузить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:67
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:464
+msgid "Map default"
+msgstr "По умолчанию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:68
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:465
+msgid "Closed"
+msgstr "Закрыто"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:75
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:482
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:178
+msgid "Players"
+msgstr "Игроки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:78
+msgid "~<Joining game: Map~>"
+msgstr "~<Присоединиться к игре: Карта~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:81
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:489
+msgid "~<Time:~>"
+msgstr "~<Время:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:144
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:584
+msgid "~<Name:~>"
+msgstr "~<Имя:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:147
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:587
+msgid "~<Ready:~>"
+msgstr "~<Готовность:~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:148
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:182
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:588
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:649
+msgid "Open slots : "
+msgstr "Открытых слотов : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:245
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:285
+msgid "Cannot reach server"
+msgstr "Сервер недостижим"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:261
+msgid "Connecting to server"
+msgstr "Соединяемся с сервером"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:266
+msgid "Connecting..."
+msgstr "Соединение..."
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:282
+msgid "Map not available"
+msgstr "Карта недоступна"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:288
+msgid "Server is full"
+msgstr "Сервер полон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:291
+msgid "Server gone"
+msgstr "Сервер ушел"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:294
+msgid "Incompatible engine version"
+msgstr "Несовместимая версия движка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:297
+msgid "Incompatible network version"
+msgstr "Несовместимая версия сети"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:316
+msgid "Add server"
+msgstr "Добавить сервер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:317
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:359
+msgid "Server IP: "
+msgstr "IP сервера: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:339
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:368
+msgid "Invalid server name"
+msgstr "Неверное имя сервера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:358
+msgid "Edit server"
+msgstr "Редактирование сервера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:388
+msgid "Servers: "
+msgstr "Сервера: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:404
+msgid "Co~!nnect"
+msgstr "Соединение"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:412
+msgid "~!Add server"
+msgstr "Добавить сервер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:413
+msgid "~!Edit server"
+msgstr "Редактировать сервер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:418
+msgid "~!Delete server"
+msgstr "Удалить сервер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:485
+msgid "~<Create MultiPlayer game~>"
+msgstr "~<Создание многопользовательской игры~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:792
+msgid "~<Multiplayer Network Game~>"
+msgstr "~<Многопользовательская игра~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:794
+msgid "Nickname :"
+msgstr "Псевдоним :"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:797
+msgid "~!Join Game"
+msgstr "Присоединиться"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:806
+msgid "~!Create Game"
+msgstr "Создать игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/network.lua:815
+msgid "Meta~!server"
+msgstr "Метасервер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/objectives.lua:4
+msgid "Objectives"
+msgstr "Цели миссии"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:6
+msgid "Sound Options"
+msgstr "Настройки звука"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:8
+msgid "Effects Volume"
+msgstr "Громкость эффектов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:36
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:69
+msgid "Enabled"
+msgstr "включено"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:41
+msgid "Music Volume"
+msgstr "Громкость музыки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:58
+msgid "min"
+msgstr "мин"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:63
+msgid "max"
+msgstr "макс"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:85
+msgid "Soundtracks: "
+msgstr "Список треков: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:94
+msgid "~!Play"
+msgstr "Играть"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:144
+msgid "Preferences"
+msgstr "Предпочтения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:147
+msgid "Show targeting lines"
+msgstr "Линии наведения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:154
+msgid "Show damage"
+msgstr "Показ урона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:161
+msgid "Show unit radii"
+msgstr "Показать радиусы юнита"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:178
+msgid "Show command hotkey"
+msgstr "Показ гор.клавиш команд"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:183
+msgid "Show messages"
+msgstr "Показ сообщений"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:194
+msgid "Big map mode"
+msgstr "Большая карта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:209
+msgid "Game Speed:"
+msgstr "Скорость игры:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:216
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:233
+msgid "slow"
+msgstr "медл"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:217
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:234
+msgid "fast"
+msgstr "быстр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:222
+msgid "Mouse Speed:"
+msgstr "Скорость мыши:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:273
+msgid "Unsupported video mode"
+msgstr "Неподдерживаемый видеорежим"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:318
+msgid "Video Options"
+msgstr "Настройки видео"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:319
+msgid "Video Resolution:"
+msgstr "Разрешение экрана:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:329
+msgid "Full Screen"
+msgstr "Полноэкранный режим"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:338
+msgid "Set Maximum OpenGL Texture to 256"
+msgstr "Установить максимальный размер текстуры OpenGL в 256"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:349
+msgid "Render Mode: (need to restart)"
+msgstr "Режим рендера: (нужен перезапуск)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:350
+msgid "Software"
+msgstr "Программный"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:350
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:379
+msgid "You need to restart game to apply changes, exit now?"
+msgstr "Нужно перезапустить игру для принятия изменений, продолжить?"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:416
+msgid "Language Options"
+msgstr "Опции перевода"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:418
+msgid "Available languages:"
+msgstr "Доступные языки:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:443
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:470
+msgid "Game Options"
+msgstr "Настройки игры"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:444
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:471
+msgid "Sound (~<F7~>)"
+msgstr "Звук  (~<F7~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:446
+msgid "Preferences (~<F8~>)"
+msgstr "Предпочтения (~<F8~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:448
+msgid "Diplomacy (~<F9~>)"
+msgstr "Дипломатия  (~<F9~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:473
+msgid "Game Preferences (~<F8~>)"
+msgstr "Предпочтения (~<F8~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:475
+msgid "Video (~<F9~>)"
+msgstr "Видео (~<F9~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/options.lua:477
+msgid "Language (~<F11~>)"
+msgstr "Перевод  (~<F11~>)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/replay.lua:7
+msgid "Select Game"
+msgstr "Выбрать игру"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/replay.lua:12
+msgid "Reveal Map"
+msgstr "Открыть туман войны"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/replay.lua:37
+msgid "Save Replay"
+msgstr "Сохранение реплея"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:13
+msgid "Victory!"
+msgstr "Победа!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:15
+msgid "Defeat!"
+msgstr "Поражение!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:17
+msgid "Draw!"
+msgstr "Ничья!"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:73
+msgid "Units:"
+msgstr "Юниты:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:76
+msgid "Buildings:"
+msgstr "Здания:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:79
+msgid "Minerals:"
+msgstr "Минералы:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:82
+msgid "Energy:"
+msgstr "Энергия:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:85
+msgid "Kills:"
+msgstr "Убийств:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:88
+msgid "Razings:"
+msgstr "Разрушено:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:91
+msgid "Score:"
+msgstr "Очки:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:170
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:171
+msgid "Result: "
+msgstr "Результат:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:220
+msgid "Total Time:"
+msgstr "Общее время:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/results.lua:286
+msgid "~!Save Replay"
+msgstr "Сохр. реплей"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:12
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:78
+msgid "Saved game to: "
+msgstr "Игра сохранена в:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/menus/save.lua:27
+msgid "Save Game"
+msgstr "Запись игры"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:32
+msgid "enable trade"
+msgstr "включить торговлю"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:40
+msgid "prev player"
+msgstr "пред игрок"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:48
+msgid "next player"
+msgstr "след игрок"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:56
+msgid "decrease minerals"
+msgstr "уменьш мин"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:64
+msgid "increase minerals"
+msgstr "увел мин"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:72
+msgid "decrease energy"
+msgstr "уменьш энерг"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:80
+msgid "increase energy"
+msgstr "увел энергию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:88
+msgid "commit operation"
+msgstr "выполнить операцию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:96
+msgid "collect samples"
+msgstr "собрать образцы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:111
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1050
+msgid "heal"
+msgstr "лечить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:132
+msgid "defibrillation"
+msgstr "дефибрилляция"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:148
+msgid "berserk"
+msgstr "берсерк"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:166
+msgid "Place mine"
+msgstr "Установить мину"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:178
+msgid "place mine"
+msgstr "установка мины"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:191
+msgid "place charge"
+msgstr "установка взрывпакета"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:206
+msgid "repair armor"
+msgstr "ремонт брони"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:221
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:382
+msgid "repair"
+msgstr "ремонт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:237
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:272
+msgid "select rl"
+msgstr "выбрать ракетницу"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:246
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:289
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:305
+msgid "select quad"
+msgstr "выбрать квадрошотган"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:255
+msgid "melee"
+msgstr "ближний бой"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:315
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:325
+msgid "bfg shot"
+msgstr "выстрел из БФГ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:335
+msgid "soulsphere"
+msgstr "Использовать сферу душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:345
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:372
+msgid "invisibility"
+msgstr "невидимость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:354
+msgid "doom sphere"
+msgstr "Использовать сферу судьбы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:363
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:926
+msgid "invulnerability"
+msgstr "Неуязвимость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:410
+msgid "radar eye"
+msgstr "глаз шпиона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:458
+msgid "radar research"
+msgstr "исследование радаром"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:477
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:490
+msgid "Orbiral attack"
+msgstr "Орбитальная атака"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:535
+msgid "shield sphere"
+msgstr "сфера щита"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:554
+msgid "life sphere"
+msgstr "сфера жизни"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:571
+msgid "regeneration sphere"
+msgstr "сфера регенерации"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:588
+msgid "skull sphere"
+msgstr "сфера черепа"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:604
+msgid "absolute defence sphere"
+msgstr "сфера абсолютной защиты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:619
+msgid "acid sphere"
+msgstr "кислотная сфера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:636
+msgid "sphere of corruption"
+msgstr "сфера гниения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:653
+msgid "vampirism sphere"
+msgstr "сфера вампиризма"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:672
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:684
+msgid "burn"
+msgstr "сжечь"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:696
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:767
+msgid "melee attack"
+msgstr "ближний бой"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:721
+msgid "eat corpse"
+msgstr "съесть труп"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:737
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:752
+msgid "blink"
+msgstr "вспышка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:784
+msgid "zombifie"
+msgstr "зомбирование"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:801
+msgid "raise zombie"
+msgstr "поднятие зомби"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:817
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:830
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:843
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:854
+msgid "summon phantom"
+msgstr "вызов Фантома"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:887
+msgid "resurrect"
+msgstr "воскрешение"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:904
+msgid "curse armor"
+msgstr "проклясть броню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:939
+msgid "inferno"
+msgstr "инферно"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:957
+msgid "rage"
+msgstr "ярость"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:984
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:994
+msgid "acid storm"
+msgstr "запуск кислотного шторма"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1004
+msgid "corrupt"
+msgstr "разложить"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1021
+msgid "teleport"
+msgstr "телепортация"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1033
+msgid "belial vampirism"
+msgstr "вампиризм"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1071
+msgid "charge"
+msgstr "восполнение ману"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1091
+msgid "create portal link"
+msgstr "создать связь"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1107
+msgid "summon cyberdemon"
+msgstr "вызов Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1116
+msgid "summon spiderdemon"
+msgstr "выбор Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1125
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1159
+msgid "cyberdemon summon"
+msgstr "вызов Кибердемона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/spells.lua:1142
+msgid "spiderdemon summon"
+msgstr "вызов Паука Предводителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:373
+msgid "collect"
+msgstr "собирайте"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:373
+msgid "mine"
+msgstr "добывайте"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:373
+msgid "gain"
+msgstr "вырабатывайте"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:376
+msgid "minerals"
+msgstr "минералы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:376
+msgid "energy"
+msgstr "энергия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/stratagus.lua:376
+msgid "hellpower"
+msgstr "адская сила"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:36
+msgid "Order unit to defend territory between 2 points."
+msgstr "Приказывает юниту защищать территорию между 2 пунктами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:58
+msgid "Show units inside transporter."
+msgstr "Показывает юниты внутри транспорта."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:59
+msgid "Show ~!units"
+msgstr "Показать пассажиров"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:64
+msgid "Order unit to unload his passengers on specified location."
+msgstr "Приказывает юниту высадить пассажиров в определенном месте."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:78
+msgid ""
+"Order worker to repair damaged structures. The repair cost is 2 minerals and "
+"1 energy per 2 hit points."
+msgstr ""
+"Приказывает роботу ремонтировать поврежденные здания. Ремонт требует 2 ед. "
+"минералов и 1 ед. энергии за 2 ОЖ здания."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:83
+msgid "Order worker to collect minerals from specified mineral patch."
+msgstr ""
+"Приказывает роботу собирать минералы с определенного месторождения минералов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:88
+msgid "Order worker to return his cargo into nearest depot."
+msgstr "Приказывает роботу вернуть свой груз в ближайший склад ресурсов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:98
+msgid "The list of available military buildings."
+msgstr "Список военных сооружений, доступных для строительства."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:111
+msgid "~!Collect samples"
+msgstr "Собрать образцы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:111
+msgid "Search a hellish corpse for hellspawn knowledge."
+msgstr "Исследовать труп демона и получить образцы демонических артефактов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:116
+msgid "Heal wounded marines (10 HP per cast)."
+msgstr "Лечит раненых пехотинцев (10 ОЗ за раз)."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:122
+msgid "~!Defibrillation"
+msgstr "Дефибрилляция"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:122
+msgid ""
+"Take an attempt to revive dead marine. The chance of successful revival "
+"depends on marine's death time."
+msgstr ""
+"Делает попытку вернуть мертвого пехотинца к жизни. Шанс на восстановления "
+"зависит от времени смерти пехотинца."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:127
+msgid ""
+"Make a berserk injection into marine. This will double move and attack "
+"speeds for 10 seconds."
+msgstr ""
+"Сделать инъекцию берсерка пехотинцу. Это удвоит скорости атаки и "
+"передвижения на 10 секунд."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:129
+msgid "Make a berserk ~!injection"
+msgstr "Сделать инъекцию берсерка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:134
+msgid "Repair a~!rmor"
+msgstr "Чинить броню"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:134
+msgid ""
+"Repair the damaged armor. The repair takes 40 minerals for full armor "
+"restoration."
+msgstr ""
+"Починить поврежденную броню. Полное восстановление брони стоит 40 минералов. "
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:140
+msgid "Place m~!ine"
+msgstr "Установить мину"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:140
+msgid ""
+"Place an explosive charge on the ground. Nobody could see the charge except "
+"for special detector units. The technician can carry up to 3 mines."
+msgstr ""
+"Установить мину на землю. Мина невидима для всех юнитов противника, за "
+"исключением специальных юнитов-детекторов. Техник может нести с собой 3 мины."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:146
+msgid "Place ~!bomb"
+msgstr "Установить бомбу"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:146
+msgid ""
+"Place a big explosive charge near the building, which will blow up in 10 "
+"seconds. The charge could be destroyed by enemy without explosion. Could be "
+"used only once."
+msgstr ""
+"Установить большой взрывпакет рядом со зданием, который поднимет его на "
+"воздух через 10 секунд. Взрывпакет может быть уничтожен противником. Может "
+"быть использован только 1 раз."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:152
+msgid "Use cloaking ~!device"
+msgstr "Использовать устройство невидимости"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:152
+msgid ""
+"Uses cloaking device on Fighter to make it invisible for all units for 25 "
+"seconds. Fighters reveal themselves when opening fire."
+msgstr ""
+"Включает устройство невидимости штурмовика, чтобы сделать его невидимым на "
+"25 секунд. Штурмовики раскрывают себя если открывают огонь."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:157
+msgid "~!Repair vehicle"
+msgstr "Чинить технику"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:157
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:162
+msgid "Repair the damaged vehicles."
+msgstr "Ремонтирует поврежденную технику."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:162
+msgid "Re~!pair vehicle"
+msgstr "Чинить технику"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:166
+msgid "Shows up a small piece of map for 10 seconds."
+msgstr "Делает небольшой участок карты видимым на 10 секунд."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:168
+msgid "Radar ~!eye"
+msgstr "Глаз шпиона"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:172
+msgid ""
+"Research Hell building to gain artifact points. The same building cannot be "
+"researched twice."
+msgstr ""
+"Изучает адскую постройку, чтобы получить очки демонических исследований. "
+"Одна и та же постройка не может быть изучена дважды."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:175
+msgid "Perform Hell building ~!research"
+msgstr "Изучить адскую постройку"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:179
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:185
+msgid ""
+"Orders the orbiting satellite to shot with on-board plasma cannon to "
+"specified location. The shot causes a big explosion which destroys almost "
+"everything."
+msgstr ""
+"Подсвечивает выбранную область для орбитальной пушки, которая начинает "
+"стрелять по этой области. Выстрел из пушки создает мощный взрыв, разрушающий "
+"практически все."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:181
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:187
+msgid "~!Orbital attack"
+msgstr "Атака с орбиты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:192
+msgid "~!Life sphere"
+msgstr "Сфера Жизни"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:192
+msgid "Increases the maximum HP of marine on 50."
+msgstr "Увеличивает максимум очков жизни на 50."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:197
+msgid "~!Regeneration sphere"
+msgstr "Сфера Регенерации"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:197
+msgid "This sphere regenerates marine's health at a rate 1 HP per second."
+msgstr ""
+"Сфера восстанавливает здоровье пехотинца со скоростью 1 очко жизни в секунду."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:202
+msgid "Aci~!d Sphere"
+msgstr "Кислотная Сфера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:202
+msgid ""
+"Every unit who attacked this marine(except buildings) will get 20 acid "
+"damage. A maximum damage of 600 points could be dealt, after that sphere "
+"destroys itself."
+msgstr ""
+"Все юниты, которые атаковали пехотинца(кроме зданий), получают 20 урона "
+"кислотой. Максимальный урон - 600 единиц, после чего сфера саморазрушается."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:208
+msgid "S~!kull sphere"
+msgstr "Сфера Черепа"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:208
+msgid ""
+"With skull sphere marine cannot be possessed by Belial or zombified by Pain "
+"Elementals, and its corpse cannot be used by Hell to raise zombies."
+msgstr ""
+"Со сферой черепа пехотинец не может быть захвачен Белиалом или зомбирован "
+"Элементалем Боли, а его труп нельзя будет использовать, чтобы поднять зомби. "
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:214
+msgid "Sphere of ~!Corruption"
+msgstr "Сфера Гниения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:214
+msgid ""
+"All monsters around unit will get 15 damage per second. A maximum damage of "
+"600 points could be dealt, after that sphere destroys itself."
+msgstr ""
+"Все монстры вокруг юнита получают 15 урона в секунду. Максимально может быть "
+"нанесено 600 урона, после чего сфера саморазрушается."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:220
+msgid "~!Vampirism Sphere"
+msgstr "Сфера Вампиризма"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:220
+msgid ""
+"Marine heals itself if attack enemy. Maximum 200 HP could be healed, after "
+"that sphere destroys itself."
+msgstr ""
+"Пехотинец лечит себя, если атакует противника. Максимально может быть "
+"излечено 200 очков жизни, после чего сфера саморазрушается."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:226
+msgid "Sphere of ~!Absolute Defence"
+msgstr "Сфера Абсолютной Защиты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:226
+msgid ""
+"When you marine gets attacked, he will become invulnerable for 10 seconds."
+msgstr ""
+"Когда пехотинец будет атакован, сфера делает его неуязвимым к урону на 10 "
+"секунд."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:232
+msgid "~!Shield sphere"
+msgstr "Сфера Щита"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:232
+msgid ""
+"Your marine gets a powerful shield sphere, which gives to him a demonic "
+"armor with 120 shield points."
+msgstr ""
+"Пехотинец получает могущественную сферу щита, которая дает ему демоническую "
+"броню со 120 единицами щита."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:245
+msgid "Weapons list."
+msgstr "Список доступного оружия."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:246
+msgid "Show ~!weapons"
+msgstr "Показать оружие"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:250
+msgid "Doomer uses mighty punch against his enemies."
+msgstr "Думер использует свои мощные кулаки, чтобы набить морду противнику."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:251
+msgid "Use ~!melee attack"
+msgstr "Ближний бой"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:255
+msgid "Select the rocket launcher. Good against buildings and air monsters."
+msgstr ""
+"Выбирает ракетную установку. Хорошее решение против зданий и воздушных "
+"юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:258
+msgid "Select ~!rocket launcher"
+msgstr "Выбрать ракетную установку"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:262
+msgid "Select the quad-barrelled shotgun. Good against any moving flesh."
+msgstr "Выбирает четырехстволку. Хорошее решение против живой плоти."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:265
+msgid "Select ~!quad shotgun"
+msgstr "Выбрать четырехстволку"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:269
+msgid "Select the Unmaker - the ultimate weapon against Hellspawn ever made."
+msgstr "Выбрать Уничтожитель - абсолютное оружие против адских тварей."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:272
+msgid "Select ~!Unmaker"
+msgstr "Выбрать Уничтожитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:276
+msgid "Fire a single BFG shot to specified location."
+msgstr "Выстрелить из БФГ в определенном направлении."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:277
+msgid "Fire from ~!BFG"
+msgstr "Стрелять из БФГ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:286
+msgid "List of available artefacts Doomer could use."
+msgstr "Список артефактов, которые Думер может использовать."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:287
+msgid "~!A~!rtifacts"
+msgstr "Артефакты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:291
+msgid "Doomer uses soulsphere. This rejuvenates all health."
+msgstr "Думер использует сферу душ. Это восстанавливает все здоровье."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:292
+msgid "Use ~!Soulsphere"
+msgstr "Использовать сферу душ"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:296
+msgid ""
+"Doomer uses Invisibility sphere, becoming invisible for 30 seconds. The "
+"sphere achieves extra 10 seconds with each Doomer's level."
+msgstr ""
+"Думер использует сферу невидимости, становясь невидимым на 30 секунд. Сфера "
+"дает дополнительные 10 секунд с каждым уровнем Думера."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:297
+msgid "Use ~!Invisibility sphere"
+msgstr "Использовать сферу невидимости"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:301
+msgid ""
+"Doomer uses Doom sphere. This doubles all damage done to targets for 10 "
+"seconds. The sphere achieves extra 5 seconds with each Doomer's level."
+msgstr ""
+"Думер использует сферу судьбы, что удваивает весь наносимый урон на 10 "
+"секунд. Сфера дает дополнительные 5 секунд с каждым уровнем Думера."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:302
+msgid "Use ~!Doom Sphere"
+msgstr "Использовать сферу судьбы"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:306
+msgid ""
+"Doomer uses Invulnerability sphere, becoming invulnerable for 10 seconds. "
+"The sphere achieves extra 5 seconds with each Doomer's level."
+msgstr ""
+"Думер использует сферу неуязвимости, становясь неуязвимым на 10 секунд. "
+"Сфера дает дополнительные 5 секунд с каждым уровнем Думера."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:307
+msgid "Use ~!Invulnerability sphere"
+msgstr "Использовать сферу неуязвимости"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:320
+msgid "UAC main building. You can build workers and train Doomer marine here."
+msgstr ""
+"Основное строение UAC. Здесь можно производить роботов, а также тренировать "
+"Думера."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:321
+msgid "Build UAC command ~!center"
+msgstr "Построить Командный центр UAC"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:326
+msgid "Build ~!power plant"
+msgstr "Построить электростанцию."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:326
+msgid ""
+"Produces energy. The more power plants you build, the quicker energy will be "
+"produced."
+msgstr ""
+"Производит энергию. Чем больше электростанций вы построите, тем больше "
+"энергии будет произведено."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:331
+msgid "Build ~!supply depot"
+msgstr "Построить склад снабжения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:331
+msgid "Increases the limit of units which could be created."
+msgstr "Увеличивает максимальное количество юнитов, которых вы можете создать."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:336
+msgid "Build ~!radar"
+msgstr "Построить радар"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:336
+msgid ""
+"Shows a big map area around it, also it can show up a random map location "
+"for some time after upgrade in Tech Center."
+msgstr ""
+"Открывает большую область карты вокруг себя, также может открывать любую "
+"область карты после модернизации в техцентре."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:341
+msgid "Build ~!tech center"
+msgstr "Построить техцентр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:341
+msgid "Provides access for hi-tech units and new technologies."
+msgstr "Предоставляет доступ к высокотехнологичным юнитам и разработкам."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:346
+msgid "Build ~!nuclear power plant"
+msgstr "Построить атомную электростанцию"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:346
+msgid ""
+"Produces a lot of energy, but this type of plants could explode if destroyed."
+msgstr ""
+"Вырабатывает огромное количество энергии, но этот тип электростанций может "
+"взрываться при разрушениях."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:359
+msgid "The place where UAC marines are getting ready for battle."
+msgstr "Место, где морпехи UAC готовятся к битве."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:360
+msgid "Build UAC ~!barracks"
+msgstr "Построить бараки UAC"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:364
+msgid "Allows you to upgrade abilities of units."
+msgstr "Позволяет вам улучшать характеристики юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:365
+msgid "Build weapon ~!factory"
+msgstr "Построить оружейную фабрику"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:369
+msgid "Here you can build UAC vehicles and repair them."
+msgstr "Здесь строится техника UAC, здесь же она может быть починена."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:370
+msgid "Build ~!vehicle factory"
+msgstr "Построить фабрику техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:374
+msgid "Provides access to orbiting satellite armed with big plasma cannon."
+msgstr ""
+"Дает доступ к орбитальной пушке, которая может стрелять зарядами плазмы."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:375
+msgid "Build ~!orbital control"
+msgstr "Построить центр контроля орбиты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:393
+msgid ""
+"Defence turret with minigun. Good against small enemy troops and air units."
+msgstr ""
+"Защитная турель с установленным миниганом. Хорошее решение против небольших "
+"отрядов противника и воздушных юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:394
+msgid "Build ~!chaingun turret"
+msgstr "Построить пулеметную турель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:398
+msgid ""
+"Defence turret with missile launcher. Good against enemy's strong units."
+msgstr ""
+"Защитная турель с ракетной установкой. Хороша против тяжелых юнитов "
+"противника."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:399
+msgid "Build ~!missile turret"
+msgstr "Построить ракетную турель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:413
+msgid "Build ~!worker robot"
+msgstr "Построить робота"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:413
+msgid ""
+"UAC's Main worker. Can build buildings, repair damaged ones, collect "
+"minerals, armed with small plasma cutter."
+msgstr ""
+"Основная рабочая сила UAC. Может строить здания, ремонтировать поврежденные, "
+"собирать минералы, вооружен небольшими плазменными резаками."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:419
+msgid "Train ~!Doomer"
+msgstr "Тренировать Думера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:419
+msgid ""
+"The hero marine, which survived in first Hell invasion and successfully "
+"droved out Hell from Earth."
+msgstr ""
+"Солдат-герой, который выжил в первом нашествии Ада и очистил Землю от "
+"демонического нашествия."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:432
+msgid ""
+"Increases the hit points of buildings by 150, also increases the hit points "
+"of turrets and walls by 45."
+msgstr ""
+"Увеличивает кол-во очков жизни у зданий на 150, а у оборонных сооружений на "
+"45."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:439
+msgid ""
+"Increases the hit points of buildings by 200, also increases the hit points "
+"of turrets and walls by 55."
+msgstr ""
+"Увеличивает кол-во очков жизни у зданий на 200, а у оборонных сооружений на "
+"55"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:445
+msgid "Toggles trading mode for command center."
+msgstr "Переключить режим торговли для Командного Центра"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:451
+msgid "~!Upgrade to advanced Command Center"
+msgstr "Модернизация до Улучшенного Командного Центра"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:451
+msgid ""
+"Upgrade Command Center to Advanced Command Center. This upgrade provide "
+"access to the newest technologies of UAC research and adds 20 percents to "
+"mineral producing."
+msgstr ""
+"Модернизирует Командный Центр до Улучшенного Командного Центра. Это "
+"позволяет вам иметь доступ к самым новым технологиям разработок UAC и "
+"повышает эффективность сбора минералов на 20 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:457
+msgid "Set ~!collect minerals"
+msgstr "Установить точку сбора"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:457
+msgid ""
+"Sets the point where workers can collect minerals, so the new workers will "
+"automatically go there and collect minerals."
+msgstr ""
+"Установить точку, в которую создаваемые роботы будут автоматически "
+"направляться для сборки минералов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:517
+msgid "Train shot~!gunner"
+msgstr "Тренировать штурмовика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:517
+msgid ""
+"The main forces of UAC, shotgunners are best against any monsters. They "
+"could be upgraded to supershotgunners."
+msgstr ""
+"Основные силы UAC, штурмовики - лучшие войска против любых видов монстров. "
+"Они могут быть улучшены до Супер Штурмовиков."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:522
+msgid "Train ~!technician"
+msgstr "Тренировать техника"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:522
+msgid ""
+"Technicians are armed with grenade launcher and are able to repair damaged "
+"armor and vehicles. They could be upgraded to place mines and explosive "
+"charges."
+msgstr ""
+"Техники вооружены ручным гранатометом и способны ремонтировать поврежденную "
+"броню и технику. Они могут быть улучшены, чтобы устанавливать мины и "
+"взрывпакеты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:532
+msgid "Train berserker"
+msgstr "Тренировать берсеркера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:532
+msgid ""
+"Berserkers are extremely fast kamikaze marines. They are best against slow "
+"enemy units."
+msgstr ""
+"Берсеркеры - необычайно быстрые солдаты-камикадзе. Лучше всего их "
+"использовать против медлительных юнитов."
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:537
+msgid "Train ~!chaingun trooper"
+msgstr "Тренировать пулеметчика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:537
+msgid ""
+"The chaingun troopers are extremely powerful against light armored forces "
+"and air units, but they are weak against heavy armored enemies."
+msgstr ""
+"Пулеметчики очень эффективны в борьбе с небронированными и воздушными "
+"юнитами, но они слабы против тяжелобронированных юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:542
+msgid "Train combat ~!medic"
+msgstr "Тренировать полевого медика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:542
+msgid ""
+"Combat medics can heal wounded marines on the battlefield. They could be "
+"upgraded to revive dead marines on battlefield and to haste marines using "
+"berserk injections."
+msgstr ""
+"Полевые медики могут лечить раненых прямо на поле боя. Они могут быть "
+"улучшены, чтобы возвращать умерших пехотинцев к жизни и ускорять пехоту, "
+"используя инъекции берсерка."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:547
+msgid "Train ~!rocket launcher trooper"
+msgstr "Тренировать ракетчика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:547
+msgid ""
+"Rocket launcher troopers are good against armored units, air units and "
+"buildings, though it's a bad idea to use them without coverage."
+msgstr ""
+"Ракетчики хороши против бронированных, воздушных юнитов, а также зданий, но "
+"посылать их в одиночку, без прикрытия - плохая идея."
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:552
+msgid "Train ~!heavy trooper"
+msgstr "Тренировать тяжелого пехотинца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:552
+msgid ""
+"Heavy troopers are well trained marines armed with plasma guns and they are "
+"deadly against any enemies, except for air units."
+msgstr ""
+"Тяжелая пехота - специально тренированные бойцы, вооруженные плазменными "
+"ружьями; они смертоносны против любых видов врагов, кроме воздушных юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:557
+msgid "Train ~!commando"
+msgstr "Тренировать коммандоса"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:557
+msgid ""
+"The commandos are the best solution against hordes of enemies, they could "
+"clean them out in couple of shots."
+msgstr ""
+"Коммандос - наилучшее решение в плане расправы с ордами противников, они "
+"могут уничтожить их всего лишь несколькими выстрелами."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:565
+msgid "Build ~!raider"
+msgstr "Построить Налетчик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:565
+msgid ""
+"The Raiders are useful to cover infantry from enemy fire, they are armed "
+"with 2 laser cannons, which are useful against any enemies."
+msgstr ""
+"Налетчики годятся, чтобы прикрыть пехоту от вражеского огня, они вооружены 2 "
+"лазерными пушками, которые неплохо могут справиться со всеми противниками."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:570
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:575
+msgid "Build ~!crusher"
+msgstr "Построить Сокрушитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:570
+msgid ""
+"The Crushers are the best for their armor so they could be used to take over "
+"enemy fire. They could be upgraded to install a missile launcher on them."
+msgstr ""
+"Сокрушители наиболее полезны за свою броню, так что их можно использовать "
+"для отвлечения огня противника. Они могут быть улучшены, чтобы иметь "
+"возможность установки ракетного комплекса."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:580
+msgid "Build ~!Thor"
+msgstr "Построить Громовержца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:580
+msgid ""
+"Thor is a extremely powerful tank armed with railgun, which can damage "
+"several enemies in single shot."
+msgstr ""
+"Громовержец - мощнейший танк с рельсотроном, который может наносить вред "
+"нескольким противникам за один выстрел."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:585
+msgid "Build ~!fighter"
+msgstr "Построить истребитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:585
+msgid ""
+"The Fighters are good for map exploration and destroying enemy's air units."
+msgstr ""
+"Истребители неплохо справляются с разведкой карты и уничтожением воздушных "
+"войск противника."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:590
+msgid "Build tra~!nsport"
+msgstr "Построить транспорт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:590
+msgid ""
+"The transports could take 6 infantry units or 6 raiders or 3 crushers or 2 "
+"Thors on board and transport them to other place."
+msgstr ""
+"Транспорт может взять на борт 6 пехотинцев или 6 Налетчиков или 3 "
+"Сокрушителя или 2 Громовержцев и транспортировать их в другое место."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:599
+msgid "~!Weapon upgrades"
+msgstr "Модернизация оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:599
+msgid "List of available upgrades for weapons."
+msgstr "Список доступных модернизаций для оружия."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:604
+msgid "~!Unit-specific upgrades"
+msgstr "Модернизации юнитов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:604
+msgid "List of available specific upgrades for units."
+msgstr "Список доступных модернизаций для юнитов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:608
+msgid "List of available upgrades for armor and sight range."
+msgstr "Список доступных модернизаций брони и радиуса обзора."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:631
+msgid "Increases the shotgun's damage by 20 percents."
+msgstr "Увеличивает урон, наносимый дробовиками, на 20 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:632
+msgid "Upgrade ~!shotguns"
+msgstr "Модернизация дробовиков"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:637
+msgid "Increases the damage done using bullet weapons by 15 percents."
+msgstr "Увеличивает повреждения, наносимые пулевым оружием, на 15 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:638
+msgid "Upgrade ~!bullet weapons"
+msgstr "Модернизация пулевого оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:643
+msgid "Increases the damage done using chainsaws by 20 percents."
+msgstr "Увеличивает повреждения, наносимые бензопилами, на 20 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:644
+msgid "Upgrade ~!chainsaws"
+msgstr "Модернизация бензопил"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:649
+msgid "Increases the damage done using explosive weapons by 20 percents."
+msgstr "Увеличивает повреждения, наносимые разрывным оружием, на 20 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:650
+msgid "Upgrade ~!explosive weapons"
+msgstr "Модернизация разрывного оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:655
+msgid "Increases the damage done using infantry energy weapons by 20 percents."
+msgstr ""
+"Увеличивает повреждения, наносимые энергетическим оружием пехотинцев, на 20 "
+"процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:656
+msgid "Upgrade ~!infantry energy weapons"
+msgstr "Модернизация энергетического оружия пехоты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:661
+msgid "Increases the damage done using vehicle energy weapons by 20 percents."
+msgstr ""
+"Увеличивает повреждения, наносимые энергетическим оружием техники, на 20 "
+"процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:662
+msgid "Upgrade ~!vehicle energy weapons"
+msgstr "Модернизация энергетического оружия техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:670
+msgid "Increases the grenade launcher's attack range by 3."
+msgstr "Увеличивает радиус атаки у миномета техника на 3 клетки."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:671
+msgid "Upgrade grenade launcher ~!range"
+msgstr "Модернизация радиуса атаки минометов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:676
+msgid "Allows technician to place mines and explosive charges."
+msgstr "Позволяет техникам устанавливать мины и взрывпакеты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:677
+msgid "Research ~!technician mining tools"
+msgstr "Исследование саперного оборудования техников"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:682
+msgid ""
+"Increases the chaingun's attack range by 1, precision by 20 percents, damage "
+"against air targets by 33 percents."
+msgstr ""
+"Увеличивает радиус атаки пулеметов на 1 клетку, точность на 20 процентов, "
+"вред против воздушных юнитов на 33 процента."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:683
+msgid "Upgrade ~!chaingun accuracy"
+msgstr "Модернизация точности пулеметов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:688
+msgid "Increases the rocket launcher's attack range by 2."
+msgstr "Увеличивает радиус атаки у ракетниц на 2 клетки."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:689
+msgid "Research ~!long-ranged missiles"
+msgstr "Исследование ракет дальнего действия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:694
+msgid "Allows medic to revive dead marines back to life."
+msgstr "Позволяет медикам возвращать к жизни умерших пехотинцев."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:695
+msgid "Research ~!defibrillation"
+msgstr "Исследование дефибрилляции"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:700
+msgid "Adds 60 shield points for Fighters."
+msgstr "Добавляет 60 очков щита у истребителя."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:701
+msgid "Research ~!fighter shield"
+msgstr "Исследование щитов истребителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:706
+msgid ""
+"Allows to install a missile launcher on crushers, this will increase unit's "
+"overall damage and will allow it to attack air targets."
+msgstr ""
+"Позволяет устанавливать ракетные установки на Сокрушители, увеличивая их "
+"общий наносимый урон и позволяя им атаковать воздушные цели."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:707
+msgid "Research crusher's ~!missile launcher"
+msgstr "Исследование ракетных установок Сокрушителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:715
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:721
+msgid ""
+"Increase infantry armor points by 15 and it's damage protection ability on 5 "
+"percents."
+msgstr ""
+"Увеличивает очки брони пехоты на 15 единиц и поглощаемый броней вред на 5 "
+"процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:716
+msgid "Upgrade marines ~!armor"
+msgstr "Модернизация брони пехоты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:722
+msgid "Research Mega~!armor"
+msgstr "Исследование Мегаброни"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:727
+msgid ""
+"Increase infantry armor points by 20 and it's damage protection ability on 5 "
+"percents."
+msgstr ""
+"Увеличивает очки брони пехоты на 20 единиц и поглощаемый броней вред на 5 "
+"процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:728
+msgid "Research marine ultra protection ~!armor"
+msgstr "Исследование супер-защитной брони пехотинца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:733
+msgid "Increases sight range of units by 2."
+msgstr "Увеличивает радиус обзора у всех юнитов на 2 клетки."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:734
+msgid "Research light amplification ~!visors"
+msgstr "Исследование приборов ночного видения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:739
+msgid "Increases the vehicle's hit points by 20."
+msgstr "Увеличивает очки жизни у всей техники на 20."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:740
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:746
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:752
+msgid "Upgrade vehicle ~!armor"
+msgstr "Модернизация брони техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:745
+msgid "Increases the vehicle's hit points by 25."
+msgstr "Увеличивает очки жизни у всей техники на 25."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:751
+msgid "Increases the vehicle's hit points by 30."
+msgstr "Увеличивает очки жизни у всей техники на 30."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:757
+msgid "Increases the vehicle's attack range by 1."
+msgstr "Увеличить радиус атаки у всей техники на 1 клетку."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:758
+msgid "Upgrade vehicle attack ra~!nge"
+msgstr "Модернизация радиуса атаки техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:763
+msgid ""
+"Upgrade the Shotgunner to Super Shotgunner. Super Shotgunners are specially "
+"trained to have a deal with any kind of monsters: their attack can confuse "
+"enemy, seriously decreasing targeting precision."
+msgstr ""
+"Улучшить штурмовика до супер штурмовика. Супер штурмовики специально "
+"подготовлены, чтобы иметь дело с любыми монстрами: их атака может ошеломить "
+"противника, сильно уменьшая точность его огня."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:764
+msgid "~!Upgrade to super shotgunner"
+msgstr "Улучшить до супер штурмовика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:769
+msgid "Installs a missile launcher on Crusher."
+msgstr "Установить ракетную установку на Сокрушитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:770
+msgid "~!Install a missile launcher"
+msgstr "Установить ракетную установку"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:778
+msgid "~!Building upgrades"
+msgstr "Модернизация зданий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:778
+msgid "List of available upgrades for buildings."
+msgstr "Список доступных улучшений для зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:783
+msgid "~!Demonic technology research"
+msgstr "Изучение демонических технологий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:783
+msgid "List of demonic technologies available for researching."
+msgstr "Список доступных для изучения демонических технологий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:788
+msgid "~!Demonic ~!essences research"
+msgstr "Изучение демонических эссенций"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:788
+msgid ""
+"List of available pure essence spheres, which could be used to increase "
+"abilities of your infantry."
+msgstr ""
+"Список доступных чистых эссенций в виде сфер, которые могут усилить "
+"способности пехоты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:803
+msgid "Allows the radar to show random location on map every 2 minutes."
+msgstr ""
+"Позволяет радару показывать произвольную область карты каждые 2 минуты."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:804
+msgid "Research radar ~!eye"
+msgstr "Исследование шпионского глаза"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:809
+msgid ""
+"Allows player to research hellish buildings using radars to achieve artifact "
+"points."
+msgstr ""
+"Позволяет игроку исследовать адские постройки, используя радары, чтобы "
+"получать очки артефактов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:810
+msgid "~!Hell anomalies radar research"
+msgstr "Изучение аномалий с помощью радара"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:815
+msgid "Installs a shield generator into all buildings."
+msgstr "Устанавливает генератор щита на все здания."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:816
+msgid "Research ~!building shield"
+msgstr "Исследовать щиты зданий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:821
+msgid "Installs a shield generator into all towers."
+msgstr "Установить генератор щита на все турели."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:822
+msgid "Research ~!turret shield"
+msgstr "Исследовать щиты турелей"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:827
+msgid ""
+"Increases the damage done to demons covered with light flesh by 15 percents."
+msgstr "Увеличивает вред демонам, покрытых слабой плотью, на 15 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:828
+msgid "Research ~!flesh weakness"
+msgstr "Исследовать слабости плоти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:833
+msgid ""
+"Increases the damage done to demons covered with heavy flesh by 15 percents."
+msgstr "Увеличивает вред демонам, покрытых тяжелой плотью, на 15 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:834
+msgid "Research ~!heavy flesh weakness"
+msgstr "Исследовать слабости тяжелой плоти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:839
+msgid "Increases the damage done to floating demons by 15 percents."
+msgstr "Увеличивает повреждения, наносимые летающим демонам, на 15 процентов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:840
+msgid "Research ~!levitation anomaly"
+msgstr "Исследовать аномалию левитации"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:845
+msgid "Increases the output power of energy generators."
+msgstr "Увеличивает выход энергии со всех генераторов."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:846
+msgid "Research ~!inferno anomaly"
+msgstr "Изучение аномалии Инферно"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:851
+msgid "Allows Doomer to use ultimate Unmaker weapon against demons."
+msgstr ""
+"Позволяет Думеру использовать против демонов абсолютное оружие - "
+"Уничтожитель."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:852
+msgid "Research ~!torture anomaly"
+msgstr "Изучение аномалии мучений"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:857
+msgid ""
+"Allows medic to make berserk injections into marines, increasing their speed."
+msgstr ""
+"Позволяет медику делать инъекции берсерка в пехотинцев, увеличивая их "
+"скорость."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:858
+msgid "Research ~!demon strength anomaly"
+msgstr "Изучение аномалии силы демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:863
+msgid ""
+"Installs a cloaking device on fighters, allowing them to become invisible "
+"for 25 seconds. No one can see them, even the detector units, but Fighters "
+"reveal themselves when opening fire."
+msgstr ""
+"Устанавливает устройство невидимости на все штурмовики, позволяя им "
+"сделаться невидимыми на 25 секунд. Ни один юнит не сможет увидеть штурмовик, "
+"даже детекторы невидимок, но штурмовики могут преждевременно раскрыть себя, "
+"если откроют огонь."
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/buttons.lua:864
+msgid "Research in~!visibility anomaly"
+msgstr "Исследовать аномалию невидимости"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:8
+msgid "Power Plant"
+msgstr "Электростанция"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:57
+msgid "Supply Depot"
+msgstr "Склад снабжения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:103
+msgid "Barracks"
+msgstr "Бараки"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:147
+msgid "Weapon Factory"
+msgstr "Оружейная фабрика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:234
+msgid "Radar Station"
+msgstr "Радар"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:283
+msgid "Vehicle Factory"
+msgstr "Фабрика техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:332
+msgid "Tech Center"
+msgstr "Техцентр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:403
+msgid "Orbital Control"
+msgstr "Центр контроля орбиты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:475
+msgid "Nuclear Power Plant"
+msgstr "Атомная электростанция"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:549
+msgid "Chaingun Turret"
+msgstr "Пулеметная турель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units.lua:622
+msgid "Missile Turret"
+msgstr "Ракетная турель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-bfgmarine.lua:123
+msgid "Commando"
+msgstr "Коммандос"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-bfgmarine.lua:195
+msgid "Commando Body"
+msgstr "Труп Коммандоса"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-chaingunner.lua:120
+msgid "Chaingun Trooper"
+msgstr "Пулеметчик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-chaingunner.lua:190
+msgid "Chaingunner Body"
+msgstr "Труп пулеметчика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-command-center.lua:246
+msgid "Command Center"
+msgstr "Командный центр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-command-center.lua:310
+msgid "Advanced Command Center"
+msgstr "Улучш.командный центр"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-crusher.lua:118
+msgid "Crusher"
+msgstr "Сокрушитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-crusher.lua:193
+msgid "Crusher with Missile Launcher"
+msgstr "Сокрушитель (улучшенный)"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-doomer.lua:303
+msgid "Doomer"
+msgstr "Думер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-doomer.lua:417
+msgid "Doomer Body"
+msgstr "Труп Думера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-fighter.lua:108
+msgid "Fighter"
+msgstr "Истребитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-medic.lua:132
+msgid "Combat Medic"
+msgstr "Полевой медик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-medic.lua:203
+msgid "Combat Medic Body"
+msgstr "Труп полевого медика"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-plasmamarine.lua:121
+msgid "Heavy Trooper"
+msgstr "Тяжелый пехотинец"
+
+# UAC units
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-plasmamarine.lua:193
+msgid "Heavy Trooper Body"
+msgstr "Труп тяж. пехотинца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-raider.lua:72
+msgid "Raider"
+msgstr "Налетчик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-robotworker.lua:64
+msgid "Worker Robot"
+msgstr "Робот"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-rocketmarine.lua:151
+msgid "Rocket Launcher Trooper"
+msgstr "Ракетчик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-rocketmarine.lua:242
+msgid "Rocket Launcher Trooper Body"
+msgstr "Труп ракетчика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-sawer.lua:104
+msgid "Berserker"
+msgstr "Берсеркер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-sawer.lua:174
+msgid "Berserker Body"
+msgstr "Труп Берсеркера"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-shotgunner.lua:118
+msgid "Shotgunner"
+msgstr "Штурмовик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-shotgunner.lua:188
+msgid "Shotgunner Body"
+msgstr "Труп штурмовика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-ssg.lua:125
+msgid "Super Shotgunner"
+msgstr "Супер Штурмовик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-ssg.lua:197
+msgid "SSG Body"
+msgstr "Труп Супер Штурмовика"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-technician.lua:182
+msgid "Mine"
+msgstr "Мина"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-technician.lua:231
+msgid "Explosive charge"
+msgstr "Взрывпакет"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-technician.lua:279
+msgid "Techician"
+msgstr "Техник"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-technician.lua:355
+msgid "Technician Body"
+msgstr "Труп техника"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-thor.lua:68
+msgid "Thor"
+msgstr "Громовержец"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/units/unit-transport.lua:53
+msgid "Transport"
+msgstr "Транспорт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:2
+msgid "Upgrade shotguns"
+msgstr "Модернизация дробовиков"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:4
+msgid "Upgrade bullet weapons"
+msgstr "Модернизация пулевого оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:6
+msgid "Upgrade explosive weapons"
+msgstr "Модернизация разрывного оружия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:8
+msgid "Upgrade infantry energy weapons"
+msgstr "Модернизация энергетического оружия пехоты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:10
+msgid "Upgrade vehicle energy weapons"
+msgstr "Модернизация энергетического оружия техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:12
+msgid "Upgrade chainsaws"
+msgstr "Модернизация бензопил"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:15
+msgid "Upgrade grenade launcher range"
+msgstr "Модернизация радиуса атаки минометов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:17
+msgid "Upgrade chaingun accuracy"
+msgstr "Модернизация точности пулеметов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:19
+msgid "Research long ranged missiles"
+msgstr "Исследование ракет дальнего действия"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:21
+msgid "Upgrade marines armor"
+msgstr "Модернизация брони пехоты"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:23
+msgid "Research Megaarmor"
+msgstr "Исследование Мегаброни"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:25
+msgid "Research marine ultra protection armor"
+msgstr "Исследование супер-защитной брони пехотинца"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:27
+msgid "Research light amplification visors"
+msgstr "Исследование приборов ночного видения"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:29
+msgid "Research technician mining tools"
+msgstr "Исследование саперного оборудования техника"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:31
+msgid "Research defibrillation"
+msgstr "Исследование дефибрилляции"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:34
+msgid "Research crusher's missile launcher"
+msgstr "Исследование ракетных установок Сокрушителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:36
+msgid "Research fighter shield"
+msgstr "Исследование щитов истребителя"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:38
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:40
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:42
+msgid "Upgrade vehicle armor"
+msgstr "Модернизация"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:44
+msgid "Upgrade vehicle attack range"
+msgstr "Модернизация радиуса атаки техники"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:46
+msgid "Research radar eye"
+msgstr "Исследование шпионского глаза"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:48
+msgid "Hell anomalies radar research"
+msgstr "Изучение аномалий с помощью радара"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:54
+msgid "Research building shield"
+msgstr "Исследование силовых щитов зданий"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:56
+msgid "Research tower shield"
+msgstr "Исследование щитов башен"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:59
+msgid "Research flesh weakness"
+msgstr "Изучение слабостей обычной плоти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:61
+msgid "Research heavy flesh weakness"
+msgstr "Изучение слабостей крепкой плоти"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:63
+msgid "Research levitation anomaly"
+msgstr "Изучение аномалии левитации"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:65
+msgid "Research torture anomaly"
+msgstr "Изучение аномалии мучений"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:67
+msgid "Research inferno anomaly"
+msgstr "Изучение аномалии инферно"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:69
+msgid "Research demon strength anomaly"
+msgstr "Изучение аномалии силы демонов"
+
+#: g:/Temp/newdw1/dwtest1/scripts/uac/upgrade.lua:71
+msgid "Research invisibility anomaly"
+msgstr "Изучение аномалии невидимости"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:107
+msgid "Supply usage: "
+msgstr "Припасы: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:108
+msgid "Hell Power usage: "
+msgstr "Адская энергия: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:109
+msgid "Output  : "
+msgstr "Выход : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:110
+msgid "In use  : "
+msgstr "Нужно : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:115
+msgid "Resource stats: "
+msgstr "Доход:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:116
+msgid "Minerals : "
+msgstr "Минералы:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:120
+msgid "Energy : "
+msgstr "Энергия:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:125
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:127
+msgid "Energy production: "
+msgstr "Производство энергии : "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:126
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:128
+#, lua-format
+msgid "Usage: %d/100"
+msgstr "Необходимо: %d/100"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:131
+msgid "Trading mode: "
+msgstr "Режим торговли: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:132
+msgid "Player: "
+msgstr "Игрок: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:133
+#, lua-format
+msgid "Minerals: %d"
+msgstr "Минералы: %d"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:134
+#, lua-format
+msgid "Energy: %d"
+msgstr "Энергия: %d"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:144
+msgid "Base Damage: "
+msgstr "Основной урон: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:172
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:505
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:563
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:890
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:948
+msgid "Attack Range: "
+msgstr "Радиус атаки: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:178
+msgid "Researching:"
+msgstr "Исследование:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:195
+msgid "Upgrading:"
+msgstr "Модернизация:"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:211
+msgid "Research preparing: "
+msgstr "Подготовка: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:219
+msgid "Researching in: "
+msgstr "Исследование: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:227
+msgid "Estimated time: "
+msgstr "Оставшееся время: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:254
+#, lua-format
+msgid "XP:~<%d~> Kills:~<%d~>"
+msgstr "XP:~<%d~> Убил:~<%d~>"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:257
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:263
+msgid "Rank: "
+msgstr "Ранг: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:257
+msgid "elite"
+msgstr "элита"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:258
+msgid "captain"
+msgstr "капитан"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:259
+msgid "sergeant"
+msgstr "сержант"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:259
+msgid "marine"
+msgstr "рядовой"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:263
+msgid "chosen one"
+msgstr "избранный"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:264
+msgid "soulsucker"
+msgstr "поглотитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:265
+msgid "adept"
+msgstr "адепт"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:265
+msgid "hound"
+msgstr "тварь"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:270
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:550
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:935
+msgid "Armor: "
+msgstr "Броня: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:270
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:550
+msgid "light"
+msgstr "легкая"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:271
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:551
+msgid "heavy"
+msgstr "тяжелая"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:272
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:552
+msgid "shield"
+msgstr "щит"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:273
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:274
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:553
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:554
+msgid "mech"
+msgstr "мех."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:275
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:555
+msgid "light flesh"
+msgstr "легк. плоть"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:276
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:277
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:556
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:557
+msgid "heavy flesh"
+msgstr "тяж. плоть"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:278
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:558
+msgid "building"
+msgstr "строение"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:279
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:559
+msgid "concrete"
+msgstr "бетон"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:280
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:560
+msgid "cursed"
+msgstr "проклятый"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:283
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:569
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:954
+msgid "Sight Range: "
+msgstr "Радиус обзора: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:286
+msgid "Mines left: "
+msgstr "Осталось мин: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:409
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:823
+msgid "~<ALT~>-click to defend unit."
+msgstr "~<ALT~>-клик, чтобы защищать юнит."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:412
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:826
+msgid "~<SHIFT~>-click to make waypoints."
+msgstr "~<SHIFT~>-клик, чтобы создавать точки следования."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:419
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:833
+msgid ""
+"~<CTRL~>-click on button enables/disables auto-repair of damaged buildings."
+msgstr ""
+"~<CTRL~>-клик на кнопку включает/отключает авторемонт поврежденных зданий."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:426
+msgid "~<CTRL~>-click on button enables/disables autoheal ability."
+msgstr ""
+"~<CTRL~>-клик на кнопку включает/выключает режим автоматического лечения."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:433
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:440
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:763
+msgid "~<CTRL~>-click on button enables/disables auto-repair ability."
+msgstr "~<CTRL~>-клик на кнопку включает/выключает режим авторемонта."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:459
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:502
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:539
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:852
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:887
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:924
+msgid "Hit Points: "
+msgstr "Очки жизни: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:482
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:977
+msgid ""
+"Hint : You can build walls quickly by pressing SHIFT and moving the building "
+"cursor."
+msgstr ""
+"Подсказка: вы можете быстро построить стену зажатием SHIFT и перемещением "
+"курсора."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:542
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:927
+msgid "Base damage: "
+msgstr "Основной урон: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:566
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:951
+msgid "Points: "
+msgstr "Ценность: "
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:623
+msgid "Affects: Shotgunner, Super Shotgunner, Doomer"
+msgstr "Влияет на: Штурмовик, Супер Штурмовик, Думер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:630
+msgid "Affects: Chaingun Trooper, Chaingun Tower, Combat Medic"
+msgstr "Влияет на: Пулеметчик, Пулеметная турель, Полевой Медик"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:637
+msgid ""
+"Affects: Technician, Rocket Launcher Trooper, Missile Turret, Crusher, Doomer"
+msgstr "Влияет на: Техник, Ракетчик, Ракетная турель, Сокрушитель, Думер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:644
+msgid "Affects: Heavy Trooper, Commando, Doomer"
+msgstr "Влияет на: Тяжелый пехотинец, Коммандо, Думер"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:651
+msgid "Affects: Raider, Thor, Fighter"
+msgstr "Влияет на: Налетчик, Громовержец, Истребитель"
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:685
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:699
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:742
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:749
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:756
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:1049
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:1091
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:1098
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:1105
+msgid "~<CTRL~>-click on button enables/disables auto-cast for this ability."
+msgstr ""
+"~<CTRL~>-клик на кнопку включает/выключает автоприменение этой способности."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:692
+msgid ""
+"~<CTRL~>-click on button enables/disables auto-cast for this ability. The "
+"samples will be collected only if there are no enemies in attack range."
+msgstr ""
+"~<CTRL~>-клик на кнопку включает/выключает автоприменение этой способности. "
+"Образцы будут собраны только если в радиусе атаки нету противников."
+
+#: g:/Temp/newdw1/dwtest1/scripts/ui.lua:1042
+msgid ""
+"NOTE: you can't create portal if you are summoning units through Hell Gate"
+msgstr ""
+"ПРИМЕЧАНИЕ: вы не можете создавать портал если вы призываете войска через "
+"Адские Врата"
+
+#: g:/Temp/newdw1/dwtest1/scripts/units.lua:960
+msgid "Mineral mine"
+msgstr "Минеральная шахта"
+
+#: g:/Temp/newdw1/dwtest1/scripts/units.lua:980
+msgid "Minerals patch"
+msgstr "Месторождение"
+
+#: g:/Temp/newdw1/dwtest1/scripts/units.lua:1018
+msgid "Explosive Barrel"
+msgstr "Взрывоопасная бочка"
+
+#: g:/Temp/newdw1/dwtest1/scripts/units.lua:1061
+msgid "Explosive Barrels"
+msgstr "Взрывоопасные бочки"
+
+# UAC units
+#~ msgid "Former Chaingun Trooper"
+#~ msgstr "Бывший Пулеметчик"
+
+# UAC units
+#~ msgid "Former Chaingun Trooper Body"
+#~ msgstr "Труп бывшего пулеметчика"
+
+#~ msgid "Former Rocket Launcher Trooper"
+#~ msgstr "Бывший Ракетчик"
+
+#~ msgid "Former Human Sergeant"
+#~ msgstr "Бывший Штурмовик"
+
+#~ msgid "Former Human Sergeant Body"
+#~ msgstr "Труп Бывшего Штурмовика"
+
+#~ msgid "Former Human"
+#~ msgstr "Бывший человек"
+
+#~ msgid "Former Human Body"
+#~ msgstr "Труп Бывшего человека"
+
+#~ msgid "List of available researches of anomalies."
+#~ msgstr "Список доступных для изучения аномалий."
+
+#~ msgid "Allows infantry armor to regenerate."
+#~ msgstr "Позволяет броне пехоты самовосстанавливаться."
+
+#~ msgid "Research demon ~!regeneration anomaly"
+#~ msgstr "Изучение аномалии регенерации демонов"
+
+#~ msgid "Research demon regeneration anomaly"
+#~ msgstr "Изучение аномалии регенерации демонов"
+
+#~ msgid "Advanced Generator of Hell Power"
+#~ msgstr "Улучш. генератор Адской энергии"
+
+#~ msgid "Death Pentagram"
+#~ msgstr "Пентаграмма смерти"
+
+#~ msgid "Former Major"
+#~ msgstr "Бывший Майор"
+
+#~ msgid "Train ma~!jor"
+#~ msgstr "Тренировать майора"
+
+#~ msgid "Major"
+#~ msgstr "Майор"
+
+#~ msgid "Major Body"
+#~ msgstr "Труп Майора"
+
+#~ msgid "Thansfer resources to another player."
+#~ msgstr "Передает ресурсы другому игроку."
+
+#, fuzzy
+#~ msgid "Trading (~<F11~>)"
+#~ msgstr "Запись  (~<F11~>)"
+
+#~ msgid "HitPoints: "
+#~ msgstr "Очки жизни"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upgrade the Shotgunner to Super Shotgunner. Super Shotgunners are great "
+#~ "with their super-shotgun),"
+#~ msgstr "Улучшить Штурмовика до Супер Штурмовика."
+
+#~ msgid "Research vehicle attack range"
+#~ msgstr "Модернизация радиуса атаки техники"
+
+#~ msgid "Summon Doom ~!imp"
+#~ msgstr "Вызвать "
+
+#~ msgid "Upgrade ~!armor"
+#~ msgstr "Модернизация брони пехоты"
+
+#, fuzzy
+#~ msgid "Increases the heavy armored and air monster's hit points by 20."
+#~ msgstr "Увеличивает очки жизни у всей техники на 20"

@@ -1,0 +1,161 @@
+local text = "30 years have passed since first demonic invasion of Mars and Earth. "..
+"All this time people were suffering the consequences of destruction that demons made to them. "..
+"But soon the destructed cities were rebuilt, UAC corporation, almost destroyed after first invasion, " ..
+"regained its erstwhile power and began to restore data collected from ruins on Phobos and Deimos. " ..
+"Very soon, UAC scientists have collected information about old demonic race, and a terrible" ..
+"truth has come out: now, when the mankind had faced the demons, they will soon come back to this world again..."
+
+
+FinaleReadmeScreen(text, "graphics/ui/background.png")
+
+
+Triggers = [[
+local switch1 = false
+local switch2 = false
+AddTrigger(
+  function() return GameCycle >= 90 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Welcome to the UAC Phobos Labs, Commander.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GameCycle >= 210 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> You are invited on the demonstration of our new technology.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GameCycle >= 350 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Your mission is to inspect this Nukage Processing Complex and then to proceed to the exit.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GameCycle >= 480 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Your first goal is 14th Containment Area.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {30,17}, {32, 22}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Just move close to the door to open it.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {36,32}, {36, 32}) > 0 and switch1 == false end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> To open this door, inspect 14th Containment Area first.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {38,20}, {38, 23}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> This is 14th Containment Area. Inspect everything and activate radiation lockdown switch to open door to Auxiliary Reactor.")
+	PlaySound(chat_message)
+  return false
+  end)
+
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {52,14}, {52, 18}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Just move to the switch to activate it.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {61,16}, {61, 17}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Good! The door to Auxiliary Reactor is opened now.")
+	PlaySound(chat_message)
+	switch1 = true
+	KillUnitAt("unit-blocker", 1, 999, {36, 32}, {36, 40})
+	ChangeUnitsOwner({36, 34}, {36, 35}, 1, 3)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {22,39}, {22, 41}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> You are entering Auxiliary Reactor. It uses teleportation system to move personnel through acid pool.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {14,34}, {14, 41}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> To use teleporter, just move on it. You will be teleported to destination point on the opposite edge of acid pool.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {6,55}, {8, 57}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Good! The teleportation worked well. Now, proceed to the exit.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {25,46}, {25, 49}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> The exit door requires blue keycard to open it. Take that keycard in 15th Containment Area near the exit.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {47,39}, {47, 39}) > 0 and switch2 == false end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Take blue keycard in 15th Containment Area on the opposite side of this room.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {38,62}, {38, 62}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> You've taken the blue keycard. Use it on the door near the exit.")
+	PlaySound(chat_message)
+	switch2 = true
+	KillUnitAt("unit-blocker", 1, 999, {47, 37}, {47, 37})
+	ChangeUnitsOwner({47, 37}, {47, 37}, 1, 3)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {47,35}, {48, 35}) > 0 end,
+  function() 
+	AddMessage("~<Lt. Jackson:~> Congratulations! You've completed the first tutorial mission of Doom Wars.")
+	PlaySound(chat_message)
+  return false
+  end)
+AddTrigger(
+  function() return GetNumUnitsAt(0, "any", {53,30}, {53, 30}) > 0 end,
+  function() 
+	ActionVictory()
+  return false
+  end)
+AddTrigger(
+  function() return true end,
+  function() 
+	SetDiplomacy(0, "allied" , 1)
+SetDiplomacy(1, "allied" , 0)
+SetDiplomacy(0, "allied" , 3)
+SetDiplomacy(3, "enemy" , 0)
+SetDiplomacy(1, "allied" , 3)
+SetDiplomacy(3, "allied" , 1)
+  return false
+  end)
+]]
+
+assert(loadstring(Triggers))()
+
+Load("campaigns/tutorial1.sms")

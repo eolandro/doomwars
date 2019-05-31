@@ -1,0 +1,6 @@
+MakeSound("deathmatch-item-pickup", "sounds/DSITEMUP.wav")
+MakeSound("deathmatch-item-respawn", "sounds/DSITMBK.wav")
+MakeSound("deathmatch-weapon-pickup", "sounds/DSWPNUP.wav")
+MakeSound("deathmatch-saw-up", "sounds/DSSAWUP.wav")
+MakeSound("deathmatch-saw-idle", "sounds/DSSAWIDL.wav")
+MakeSound("deathmatch-saw-attack", "sounds/DSSAWFUL.wav")

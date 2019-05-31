@@ -1,0 +1,27 @@
+##### buttons.lua ###############################################################
+
+msgid "~<ESC~> Cancel"
+msgstr ""
+
+msgid "Aborts current upgrade and gives it's cost back to the player"
+msgstr ""
+
+msgid "~<ESC~> Cancel upgrade"
+msgstr ""
+
+msgid "Aborts current unit training and gives it's cost back to the player"
+msgstr ""
+
+msgid "~<ESC~> Cancel unit training"
+msgstr ""
+
+msgid "Aborts current building construction and gives it's 75% cost back to the player"
+msgstr ""
+
+msgid "~<ESC~> Cancel construction"
+msgstr ""
+
+##### cheats.lua ###############################################################
+
+msgid "Very Happy RESOURCES Added NOT ONLY for you!"
+msgstr ""
